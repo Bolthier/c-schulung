@@ -1,0 +1,14 @@
+C:\LABS\STP\STP\obj\Debug\net8.0\STP.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\STP\STP\obj\Debug\net8.0\STP.AssemblyInfoInputs.cache
+C:\LABS\STP\STP\obj\Debug\net8.0\STP.AssemblyInfo.cs
+C:\LABS\STP\STP\obj\Debug\net8.0\STP.csproj.CoreCompileInputs.cache
+C:\LABS\STP\STP\bin\Debug\net8.0\STP.exe
+C:\LABS\STP\STP\bin\Debug\net8.0\STP.deps.json
+C:\LABS\STP\STP\bin\Debug\net8.0\STP.runtimeconfig.json
+C:\LABS\STP\STP\bin\Debug\net8.0\STP.dll
+C:\LABS\STP\STP\bin\Debug\net8.0\STP.pdb
+C:\LABS\STP\STP\obj\Debug\net8.0\STP.dll
+C:\LABS\STP\STP\obj\Debug\net8.0\refint\STP.dll
+C:\LABS\STP\STP\obj\Debug\net8.0\STP.pdb
+C:\LABS\STP\STP\obj\Debug\net8.0\STP.genruntimeconfig.cache
+C:\LABS\STP\STP\obj\Debug\net8.0\ref\STP.dll

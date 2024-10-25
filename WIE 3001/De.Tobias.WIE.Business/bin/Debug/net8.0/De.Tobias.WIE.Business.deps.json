@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "De.Tobias.WIE.Business/1.0.0": {
+        "runtime": {
+          "De.Tobias.WIE.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "De.Tobias.WIE.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

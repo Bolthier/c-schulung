@@ -1,0 +1,11 @@
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\bin\Debug\net8.0\De.Tobias.WIE.Business.deps.json
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\bin\Debug\net8.0\De.Tobias.WIE.Business.dll
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\bin\Debug\net8.0\De.Tobias.WIE.Business.pdb
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\obj\Debug\net8.0\De.Tobias.WIE.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\obj\Debug\net8.0\De.Tobias.WIE.Business.AssemblyInfoInputs.cache
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\obj\Debug\net8.0\De.Tobias.WIE.Business.AssemblyInfo.cs
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\obj\Debug\net8.0\De.Tobias.WIE.Business.csproj.CoreCompileInputs.cache
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\obj\Debug\net8.0\De.Tobias.WIE.Business.dll
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\obj\Debug\net8.0\refint\De.Tobias.WIE.Business.dll
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\obj\Debug\net8.0\De.Tobias.WIE.Business.pdb
+C:\LABS\WIE 3001\De.Tobias.WIE.Business\obj\Debug\net8.0\ref\De.Tobias.WIE.Business.dll

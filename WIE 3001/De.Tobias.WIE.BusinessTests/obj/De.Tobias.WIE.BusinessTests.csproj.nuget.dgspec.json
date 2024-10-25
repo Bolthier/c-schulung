@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\LABS\\WIE 3001\\De.Tobias.WIE.BusinessTests\\De.Tobias.WIE.BusinessTests.csproj": {}
+  },
+  "projects": {
+    "C:\\LABS\\WIE 3001\\De.Tobias.WIE.BusinessTests\\De.Tobias.WIE.BusinessTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LABS\\WIE 3001\\De.Tobias.WIE.BusinessTests\\De.Tobias.WIE.BusinessTests.csproj",
+        "projectName": "De.Tobias.WIE.BusinessTests",
+        "projectPath": "C:\\LABS\\WIE 3001\\De.Tobias.WIE.BusinessTests\\De.Tobias.WIE.BusinessTests.csproj",
+        "packagesPath": "C:\\Users\\Schulung\\.nuget\\packages\\",
+        "outputPath": "C:\\LABS\\WIE 3001\\De.Tobias.WIE.BusinessTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Schulung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\LABS\\WIE 3001\\De.Tobias.WIE.Business\\De.Tobias.WIE.Business.csproj": {
+                "projectPath": "C:\\LABS\\WIE 3001\\De.Tobias.WIE.Business\\De.Tobias.WIE.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\LABS\\WIE 3001\\De.Tobias.WIE.Business\\De.Tobias.WIE.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LABS\\WIE 3001\\De.Tobias.WIE.Business\\De.Tobias.WIE.Business.csproj",
+        "projectName": "De.Tobias.WIE.Business",
+        "projectPath": "C:\\LABS\\WIE 3001\\De.Tobias.WIE.Business\\De.Tobias.WIE.Business.csproj",
+        "packagesPath": "C:\\Users\\Schulung\\.nuget\\packages\\",
+        "outputPath": "C:\\LABS\\WIE 3001\\De.Tobias.WIE.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Schulung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

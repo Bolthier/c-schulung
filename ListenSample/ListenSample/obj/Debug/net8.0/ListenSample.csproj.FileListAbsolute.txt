@@ -1,0 +1,14 @@
+C:\LABS\ListenSample\ListenSample\bin\Debug\net8.0\ListenSample.exe
+C:\LABS\ListenSample\ListenSample\bin\Debug\net8.0\ListenSample.deps.json
+C:\LABS\ListenSample\ListenSample\bin\Debug\net8.0\ListenSample.runtimeconfig.json
+C:\LABS\ListenSample\ListenSample\bin\Debug\net8.0\ListenSample.dll
+C:\LABS\ListenSample\ListenSample\bin\Debug\net8.0\ListenSample.pdb
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\ListenSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\ListenSample.AssemblyInfoInputs.cache
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\ListenSample.AssemblyInfo.cs
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\ListenSample.csproj.CoreCompileInputs.cache
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\ListenSample.dll
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\refint\ListenSample.dll
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\ListenSample.pdb
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\ListenSample.genruntimeconfig.cache
+C:\LABS\ListenSample\ListenSample\obj\Debug\net8.0\ref\ListenSample.dll

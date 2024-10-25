@@ -1,0 +1,14 @@
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\bin\Debug\net8.0\De.Wortmann.Tobias.Rechner.deps.json
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\bin\Debug\net8.0\De.Wortmann.Tobias.Rechner.dll
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\bin\Debug\net8.0\De.Wortmann.Tobias.Rechner.pdb
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\bin\Debug\net8.0\De.Wortmann.Interfaces.dll
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\De.Wortmann.Tobias.Rechner.csproj.AssemblyReference.cache
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\De.Wortmann.Tobias.Rechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\De.Wortmann.Tobias.Rechner.AssemblyInfoInputs.cache
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\De.Wortmann.Tobias.Rechner.AssemblyInfo.cs
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\De.Wortmann.Tobias.Rechner.csproj.CoreCompileInputs.cache
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\De.Wortm.97093D70.Up2Date
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\De.Wortmann.Tobias.Rechner.dll
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\refint\De.Wortmann.Tobias.Rechner.dll
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\De.Wortmann.Tobias.Rechner.pdb
+C:\LABS\Wortmann Rechner\De.Wortmann.Tobias.Rechner\obj\Debug\net8.0\ref\De.Wortmann.Tobias.Rechner.dll

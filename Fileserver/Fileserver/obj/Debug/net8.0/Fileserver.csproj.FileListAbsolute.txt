@@ -1,0 +1,14 @@
+C:\LABS\Fileserver\Fileserver\bin\Debug\net8.0\Fileserver.exe
+C:\LABS\Fileserver\Fileserver\bin\Debug\net8.0\Fileserver.deps.json
+C:\LABS\Fileserver\Fileserver\bin\Debug\net8.0\Fileserver.runtimeconfig.json
+C:\LABS\Fileserver\Fileserver\bin\Debug\net8.0\Fileserver.dll
+C:\LABS\Fileserver\Fileserver\bin\Debug\net8.0\Fileserver.pdb
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\Fileserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\Fileserver.AssemblyInfoInputs.cache
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\Fileserver.AssemblyInfo.cs
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\Fileserver.csproj.CoreCompileInputs.cache
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\Fileserver.dll
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\refint\Fileserver.dll
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\Fileserver.pdb
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\Fileserver.genruntimeconfig.cache
+C:\LABS\Fileserver\Fileserver\obj\Debug\net8.0\ref\Fileserver.dll

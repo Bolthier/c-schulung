@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LABS\\EventsDateisystemBeobachter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33C4B7-938B-4C06-9072-F1D6CFFF4F89}|EventsDateisystemBeobachter\\EventsDateisystemBeobachter.csproj|c:\\labs\\eventsdateisystembeobachter\\eventsdateisystembeobachter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33C4B7-938B-4C06-9072-F1D6CFFF4F89}|EventsDateisystemBeobachter\\EventsDateisystemBeobachter.csproj|solutionrelative:eventsdateisystembeobachter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LABS\\EventsDateisystemBeobachter\\EventsDateisystemBeobachter\\Program.cs",
+              "RelativeDocumentMoniker": "EventsDateisystemBeobachter\\Program.cs",
+              "ToolTip": "C:\\LABS\\EventsDateisystemBeobachter\\EventsDateisystemBeobachter\\Program.cs",
+              "RelativeToolTip": "EventsDateisystemBeobachter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:26:32.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

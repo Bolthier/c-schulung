@@ -1,0 +1,14 @@
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\bin\Debug\net8.0\EventsDateisystemBeobachter.exe
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\bin\Debug\net8.0\EventsDateisystemBeobachter.deps.json
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\bin\Debug\net8.0\EventsDateisystemBeobachter.runtimeconfig.json
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\bin\Debug\net8.0\EventsDateisystemBeobachter.dll
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\bin\Debug\net8.0\EventsDateisystemBeobachter.pdb
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\EventsDateisystemBeobachter.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\EventsDateisystemBeobachter.AssemblyInfoInputs.cache
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\EventsDateisystemBeobachter.AssemblyInfo.cs
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\EventsDateisystemBeobachter.csproj.CoreCompileInputs.cache
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\EventsDateisystemBeobachter.dll
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\refint\EventsDateisystemBeobachter.dll
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\EventsDateisystemBeobachter.pdb
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\EventsDateisystemBeobachter.genruntimeconfig.cache
+C:\LABS\EventsDateisystemBeobachter\EventsDateisystemBeobachter\obj\Debug\net8.0\ref\EventsDateisystemBeobachter.dll

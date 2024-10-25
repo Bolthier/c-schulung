@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLZ Suche 3000", "PLZ Suche 3000\PLZ Suche 3000.csproj", "{18274D05-C040-4457-992B-A9B960298A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18274D05-C040-4457-992B-A9B960298A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18274D05-C040-4457-992B-A9B960298A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18274D05-C040-4457-992B-A9B960298A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18274D05-C040-4457-992B-A9B960298A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134A7A23-77AA-40EE-82E1-50899459C1A2}
+	EndGlobalSection
+EndGlobal

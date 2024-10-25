@@ -1,0 +1,14 @@
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\ZufallsEntscheidung.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\ZufallsEntscheidung.AssemblyInfoInputs.cache
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\ZufallsEntscheidung.AssemblyInfo.cs
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\ZufallsEntscheidung.csproj.CoreCompileInputs.cache
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\bin\Debug\net8.0\ZufallsEntscheidung.exe
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\bin\Debug\net8.0\ZufallsEntscheidung.deps.json
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\bin\Debug\net8.0\ZufallsEntscheidung.runtimeconfig.json
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\bin\Debug\net8.0\ZufallsEntscheidung.dll
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\bin\Debug\net8.0\ZufallsEntscheidung.pdb
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\ZufallsEntscheidung.dll
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\refint\ZufallsEntscheidung.dll
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\ZufallsEntscheidung.pdb
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\ZufallsEntscheidung.genruntimeconfig.cache
+C:\LABS\ZufallsEntscheidung\ZufallsEntscheidung\obj\Debug\net8.0\ref\ZufallsEntscheidung.dll

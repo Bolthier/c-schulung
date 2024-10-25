@@ -1,0 +1,14 @@
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\bin\Debug\net8.0\PrimzahlenRechner.exe
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\bin\Debug\net8.0\PrimzahlenRechner.deps.json
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\bin\Debug\net8.0\PrimzahlenRechner.runtimeconfig.json
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\bin\Debug\net8.0\PrimzahlenRechner.dll
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\bin\Debug\net8.0\PrimzahlenRechner.pdb
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\PrimzahlenRechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\PrimzahlenRechner.AssemblyInfoInputs.cache
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\PrimzahlenRechner.AssemblyInfo.cs
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\PrimzahlenRechner.csproj.CoreCompileInputs.cache
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\PrimzahlenRechner.dll
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\refint\PrimzahlenRechner.dll
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\PrimzahlenRechner.pdb
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\PrimzahlenRechner.genruntimeconfig.cache
+C:\LABS\PrimzahlenRechner\PrimzahlenRechner\obj\Debug\net8.0\ref\PrimzahlenRechner.dll

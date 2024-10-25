@@ -1,0 +1,14 @@
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\bin\Debug\net8.0\PLZ Suche 3000.exe
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\bin\Debug\net8.0\PLZ Suche 3000.deps.json
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\bin\Debug\net8.0\PLZ Suche 3000.runtimeconfig.json
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\bin\Debug\net8.0\PLZ Suche 3000.dll
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\bin\Debug\net8.0\PLZ Suche 3000.pdb
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\PLZ Suche 3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\PLZ Suche 3000.AssemblyInfoInputs.cache
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\PLZ Suche 3000.AssemblyInfo.cs
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\PLZ Suche 3000.csproj.CoreCompileInputs.cache
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\PLZ Suche 3000.dll
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\refint\PLZ Suche 3000.dll
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\PLZ Suche 3000.pdb
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\PLZ Suche 3000.genruntimeconfig.cache
+C:\LABS\PLZ Suche 3000\PLZ Suche 3000\obj\Debug\net8.0\ref\PLZ Suche 3000.dll
