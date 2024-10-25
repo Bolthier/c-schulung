@@ -15,3 +15,4 @@ C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\refint\Filmsuche.dll
 C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.pdb
 C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.genruntimeconfig.cache
 C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\ref\Filmsuche.dll
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.BildMitTitelControl.resources

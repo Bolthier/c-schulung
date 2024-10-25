@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\LABS\\Filmsuche\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|c:\\labs\\filmsuche\\filmsuche\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|solutionrelative:filmsuche\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|c:\\labs\\filmsuche\\filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|solutionrelative:filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|c:\\labs\\filmsuche\\filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|c:\\labs\\filmsuche\\filmsuche\\bildmittitelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|solutionrelative:filmsuche\\bildmittitelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|C:\\LABS\\Filmsuche\\filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|solutionrelative:filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|c:\\labs\\filmsuche\\filmsuche\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|solutionrelative:filmsuche\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|c:\\labs\\filmsuche\\filmsuche\\bildmittitelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B0FE0C-134E-4DF2-B805-6A668B46062A}|Filmsuche\\Filmsuche.csproj|solutionrelative:filmsuche\\bildmittitelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BildMitTitelControl.cs",
+              "DocumentMoniker": "C:\\LABS\\Filmsuche\\Filmsuche\\BildMitTitelControl.cs",
+              "RelativeDocumentMoniker": "Filmsuche\\BildMitTitelControl.cs",
+              "ToolTip": "C:\\LABS\\Filmsuche\\Filmsuche\\BildMitTitelControl.cs",
+              "RelativeToolTip": "Filmsuche\\BildMitTitelControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:06:25.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BildMitTitelControl.cs [Entwurf]",
+              "DocumentMoniker": "C:\\LABS\\Filmsuche\\Filmsuche\\BildMitTitelControl.cs",
+              "RelativeDocumentMoniker": "Filmsuche\\BildMitTitelControl.cs",
+              "ToolTip": "C:\\LABS\\Filmsuche\\Filmsuche\\BildMitTitelControl.cs [Entwurf]",
+              "RelativeToolTip": "Filmsuche\\BildMitTitelControl.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:02:58.857Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\LABS\\Filmsuche\\Filmsuche\\Form1.cs",
+              "RelativeDocumentMoniker": "Filmsuche\\Form1.cs",
+              "ToolTip": "C:\\LABS\\Filmsuche\\Filmsuche\\Form1.cs",
+              "RelativeToolTip": "Filmsuche\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:45:09.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FilmModel.cs",
               "DocumentMoniker": "C:\\LABS\\Filmsuche\\Filmsuche\\FilmModel.cs",
               "RelativeDocumentMoniker": "Filmsuche\\FilmModel.cs",
@@ -39,20 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\LABS\\Filmsuche\\Filmsuche\\Form1.cs",
-              "RelativeDocumentMoniker": "Filmsuche\\Form1.cs",
-              "ToolTip": "C:\\LABS\\Filmsuche\\Filmsuche\\Form1.cs",
-              "RelativeToolTip": "Filmsuche\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:45:09.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Entwurf]",
               "DocumentMoniker": "C:\\LABS\\Filmsuche\\Filmsuche\\Form1.cs",
               "RelativeDocumentMoniker": "Filmsuche\\Form1.cs",

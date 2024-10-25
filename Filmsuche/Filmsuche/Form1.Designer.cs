@@ -32,6 +32,8 @@
             textBox1 = new TextBox();
             button1 = new Button();
             flowLayoutPanel1 = new FlowLayoutPanel();
+            trackBar1 = new TrackBar();
+            ((System.ComponentModel.ISupportInitialize)trackBar1).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -50,9 +52,12 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(656, 23);
             textBox1.TabIndex = 1;
+            textBox1.TextChanged += textBox1_TextChanged;
+            textBox1.KeyDown += textBox1_KeyDown;
             // 
             // button1
             // 
+            button1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             button1.Location = new Point(713, 6);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
@@ -66,22 +71,36 @@
             flowLayoutPanel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             flowLayoutPanel1.AutoScroll = true;
             flowLayoutPanel1.BackColor = SystemColors.ButtonHighlight;
-            flowLayoutPanel1.Location = new Point(12, 35);
+            flowLayoutPanel1.Location = new Point(12, 86);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
-            flowLayoutPanel1.Size = new Size(776, 403);
+            flowLayoutPanel1.Size = new Size(776, 352);
             flowLayoutPanel1.TabIndex = 3;
+            // 
+            // trackBar1
+            // 
+            trackBar1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            trackBar1.Location = new Point(12, 35);
+            trackBar1.Maximum = 500;
+            trackBar1.Minimum = 200;
+            trackBar1.Name = "trackBar1";
+            trackBar1.Size = new Size(776, 45);
+            trackBar1.TabIndex = 4;
+            trackBar1.Value = 200;
+            trackBar1.Scroll += trackBar1_Scroll;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(trackBar1);
             Controls.Add(flowLayoutPanel1);
             Controls.Add(button1);
             Controls.Add(textBox1);
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)trackBar1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -92,5 +111,6 @@
         private TextBox textBox1;
         private Button button1;
         private FlowLayoutPanel flowLayoutPanel1;
+        private TrackBar trackBar1;
     }
 }
