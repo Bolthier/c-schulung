@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Hangman_Console.Business
 {
+    public class Overview
+    {
+        public int SpieleAnzahl { get; set; } = 1;
+        public int Siege { get; set; } = 0;
+        public int Niederlagen { get; set; } = 0;
+    }
     public class Hangman
     {
         public string SecretWord { get; set; }

@@ -12,3 +12,4 @@ C:\LABS\Hangman-Console\Hangman-Console\obj\Debug\net8.0\refint\Hangman-Console.
 C:\LABS\Hangman-Console\Hangman-Console\obj\Debug\net8.0\Hangman-Console.pdb
 C:\LABS\Hangman-Console\Hangman-Console\obj\Debug\net8.0\Hangman-Console.genruntimeconfig.cache
 C:\LABS\Hangman-Console\Hangman-Console\obj\Debug\net8.0\ref\Hangman-Console.dll
+C:\LABS\Hangman-Console\Hangman-Console\obj\Debug\net8.0\Hangman-Console.sourcelink.json

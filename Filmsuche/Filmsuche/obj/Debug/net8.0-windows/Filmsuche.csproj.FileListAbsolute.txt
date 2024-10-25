@@ -1,0 +1,17 @@
+C:\LABS\Filmsuche\Filmsuche\bin\Debug\net8.0-windows\Filmsuche.exe
+C:\LABS\Filmsuche\Filmsuche\bin\Debug\net8.0-windows\Filmsuche.deps.json
+C:\LABS\Filmsuche\Filmsuche\bin\Debug\net8.0-windows\Filmsuche.runtimeconfig.json
+C:\LABS\Filmsuche\Filmsuche\bin\Debug\net8.0-windows\Filmsuche.dll
+C:\LABS\Filmsuche\Filmsuche\bin\Debug\net8.0-windows\Filmsuche.pdb
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.Form1.resources
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.csproj.GenerateResource.cache
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.AssemblyInfoInputs.cache
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.AssemblyInfo.cs
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.csproj.CoreCompileInputs.cache
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.sourcelink.json
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.dll
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\refint\Filmsuche.dll
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.pdb
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\Filmsuche.genruntimeconfig.cache
+C:\LABS\Filmsuche\Filmsuche\obj\Debug\net8.0-windows\ref\Filmsuche.dll

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\LABS\\Hangman-Console\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C423C32-2C68-4CB6-8C49-B82217CE39EF}|Hangman-Forms\\Hangman-Forms.csproj|c:\\labs\\hangman-console\\hangman-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C423C32-2C68-4CB6-8C49-B82217CE39EF}|Hangman-Forms\\Hangman-Forms.csproj|solutionrelative:hangman-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C423C32-2C68-4CB6-8C49-B82217CE39EF}|Hangman-Forms\\Hangman-Forms.csproj|c:\\labs\\hangman-console\\hangman-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C423C32-2C68-4CB6-8C49-B82217CE39EF}|Hangman-Forms\\Hangman-Forms.csproj|solutionrelative:hangman-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2123BFF-D309-475F-98FE-422BC5F3248F}|Hangman-Console\\Hangman-Console.csproj|c:\\labs\\hangman-console\\hangman-console\\business\\hangman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2123BFF-D309-475F-98FE-422BC5F3248F}|Hangman-Console\\Hangman-Console.csproj|solutionrelative:hangman-console\\business\\hangman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\LABS\\Hangman-Console\\Hangman-Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Hangman-Forms\\Form1.cs",
+              "ToolTip": "C:\\LABS\\Hangman-Console\\Hangman-Forms\\Form1.cs",
+              "RelativeToolTip": "Hangman-Forms\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvywAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:30:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\LABS\\Hangman-Console\\Hangman-Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Hangman-Forms\\Form1.cs",
+              "ToolTip": "C:\\LABS\\Hangman-Console\\Hangman-Forms\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "Hangman-Forms\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:22:19.319Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Hangman.cs",
               "DocumentMoniker": "C:\\LABS\\Hangman-Console\\Hangman-Console\\Business\\Hangman.cs",
               "RelativeDocumentMoniker": "Hangman-Console\\Business\\Hangman.cs",
               "ToolTip": "C:\\LABS\\Hangman-Console\\Hangman-Console\\Business\\Hangman.cs",
               "RelativeToolTip": "Hangman-Console\\Business\\Hangman.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:09:26.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LABS\\Hangman-Console\\Hangman-Console\\Program.cs",
               "RelativeDocumentMoniker": "Hangman-Console\\Program.cs",
