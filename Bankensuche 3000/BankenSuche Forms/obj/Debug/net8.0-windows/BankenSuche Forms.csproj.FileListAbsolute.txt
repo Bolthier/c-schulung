@@ -1,0 +1,23 @@
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\BankenSuche Forms.exe
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\BankenSuche Forms.deps.json
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\BankenSuche Forms.runtimeconfig.json
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\BankenSuche Forms.dll
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\BankenSuche Forms.pdb
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\De.Wortmann.Bank.Implementation.dll
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\De.Wortmann.Banken.Interfaces.dll
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\De.Wortmann.Bank.Implementation.pdb
+C:\LABS\Bankensuche 3000\BankenSuche Forms\bin\Debug\net8.0-windows\De.Wortmann.Banken.Interfaces.pdb
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.csproj.AssemblyReference.cache
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche_Forms.Form1.resources
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.csproj.GenerateResource.cache
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.AssemblyInfoInputs.cache
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.AssemblyInfo.cs
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.csproj.CoreCompileInputs.cache
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.sourcelink.json
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSu.7C71957D.Up2Date
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.dll
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\refint\BankenSuche Forms.dll
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.pdb
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\BankenSuche Forms.genruntimeconfig.cache
+C:\LABS\Bankensuche 3000\BankenSuche Forms\obj\Debug\net8.0-windows\ref\BankenSuche Forms.dll

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>BankenSuche_Forms</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\De.Wortmann.Bank.Implementation\De.Wortmann.Bank.Implementation.csproj" />
+    <ProjectReference Include="..\De.Wortmann.Banken.Interfaces\De.Wortmann.Banken.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

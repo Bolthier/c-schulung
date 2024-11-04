@@ -1,0 +1,16 @@
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\bin\Debug\net8.0\De.Wortmann.Bank.Implementation.deps.json
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\bin\Debug\net8.0\De.Wortmann.Bank.Implementation.dll
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\bin\Debug\net8.0\De.Wortmann.Bank.Implementation.pdb
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\bin\Debug\net8.0\De.Wortmann.Banken.Interfaces.dll
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\bin\Debug\net8.0\De.Wortmann.Banken.Interfaces.pdb
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortmann.Bank.Implementation.csproj.AssemblyReference.cache
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortmann.Bank.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortmann.Bank.Implementation.AssemblyInfoInputs.cache
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortmann.Bank.Implementation.AssemblyInfo.cs
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortmann.Bank.Implementation.csproj.CoreCompileInputs.cache
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortmann.Bank.Implementation.sourcelink.json
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortm.F12C3E62.Up2Date
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortmann.Bank.Implementation.dll
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\refint\De.Wortmann.Bank.Implementation.dll
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\De.Wortmann.Bank.Implementation.pdb
+C:\LABS\Bankensuche 3000\De.Wortmann.Bank.Implementation\obj\Debug\net8.0\ref\De.Wortmann.Bank.Implementation.dll

@@ -1,0 +1,21 @@
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\BankStatistik Console.exe
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\BankStatistik Console.deps.json
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\BankStatistik Console.runtimeconfig.json
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\BankStatistik Console.dll
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\BankStatistik Console.pdb
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\De.Wortmann.Bank.Implementation.dll
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\De.Wortmann.Banken.Interfaces.dll
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\De.Wortmann.Bank.Implementation.pdb
+C:\LABS\Bankensuche 3000\BankStatistik Console\bin\Debug\net8.0\De.Wortmann.Banken.Interfaces.pdb
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.csproj.AssemblyReference.cache
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.AssemblyInfoInputs.cache
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.AssemblyInfo.cs
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.csproj.CoreCompileInputs.cache
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.sourcelink.json
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStat.00338C76.Up2Date
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.dll
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\refint\BankStatistik Console.dll
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.pdb
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\BankStatistik Console.genruntimeconfig.cache
+C:\LABS\Bankensuche 3000\BankStatistik Console\obj\Debug\net8.0\ref\BankStatistik Console.dll

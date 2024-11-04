@@ -1,0 +1,12 @@
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\bin\Debug\net8.0\De.Wortmann.Banken.Interfaces.deps.json
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\bin\Debug\net8.0\De.Wortmann.Banken.Interfaces.dll
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\bin\Debug\net8.0\De.Wortmann.Banken.Interfaces.pdb
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\De.Wortmann.Banken.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\De.Wortmann.Banken.Interfaces.AssemblyInfoInputs.cache
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\De.Wortmann.Banken.Interfaces.AssemblyInfo.cs
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\De.Wortmann.Banken.Interfaces.csproj.CoreCompileInputs.cache
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\De.Wortmann.Banken.Interfaces.sourcelink.json
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\De.Wortmann.Banken.Interfaces.dll
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\refint\De.Wortmann.Banken.Interfaces.dll
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\De.Wortmann.Banken.Interfaces.pdb
+C:\LABS\Bankensuche 3000\De.Wortmann.Banken.Interfaces\obj\Debug\net8.0\ref\De.Wortmann.Banken.Interfaces.dll

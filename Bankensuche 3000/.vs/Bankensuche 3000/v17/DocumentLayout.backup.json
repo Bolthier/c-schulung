@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LABS\\Bankensuche 3000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5729236-310B-4FF8-9994-6FC6CAB680B4}|BankStatistik Console\\BankStatistik Console.csproj|c:\\labs\\bankensuche 3000\\bankstatistik console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5729236-310B-4FF8-9994-6FC6CAB680B4}|BankStatistik Console\\BankStatistik Console.csproj|solutionrelative:bankstatistik console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6044B10A-AEC5-4C43-8EF4-D6D62903507D}|De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj|c:\\labs\\bankensuche 3000\\de.wortmann.bank.implementation\\dateisystembankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6044B10A-AEC5-4C43-8EF4-D6D62903507D}|De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj|solutionrelative:de.wortmann.bank.implementation\\dateisystembankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1F3C2-4738-4EED-ADA0-CAF791F0684A}|De.Wortmann.Banken.Interfaces\\De.Wortmann.Banken.Interfaces.csproj|c:\\labs\\bankensuche 3000\\de.wortmann.banken.interfaces\\bankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1F3C2-4738-4EED-ADA0-CAF791F0684A}|De.Wortmann.Banken.Interfaces\\De.Wortmann.Banken.Interfaces.csproj|solutionrelative:de.wortmann.banken.interfaces\\bankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F04675-3ACB-4933-BE90-A8AB935E1C5F}|BankensucheTests\\BankensucheTests.csproj|c:\\labs\\bankensuche 3000\\bankensuchetests\\bankhelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F04675-3ACB-4933-BE90-A8AB935E1C5F}|BankensucheTests\\BankensucheTests.csproj|solutionrelative:bankensuchetests\\bankhelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}|BankenSuche Forms\\BankenSuche Forms.csproj|c:\\labs\\bankensuche 3000\\bankensuche forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}|BankenSuche Forms\\BankenSuche Forms.csproj|solutionrelative:bankensuche forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}|BankenSuche Forms\\BankenSuche Forms.csproj|c:\\labs\\bankensuche 3000\\bankensuche forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}|BankenSuche Forms\\BankenSuche Forms.csproj|solutionrelative:bankensuche forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\BankStatistik Console\\Program.cs",
+              "RelativeDocumentMoniker": "BankStatistik Console\\Program.cs",
+              "ToolTip": "C:\\LABS\\Bankensuche 3000\\BankStatistik Console\\Program.cs",
+              "RelativeToolTip": "BankStatistik Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:48:42.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\BankenSuche Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "BankenSuche Forms\\Form1.cs",
+              "ToolTip": "C:\\LABS\\Bankensuche 3000\\BankenSuche Forms\\Form1.cs",
+              "RelativeToolTip": "BankenSuche Forms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:35:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\BankenSuche Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "BankenSuche Forms\\Form1.cs",
+              "ToolTip": "C:\\LABS\\Bankensuche 3000\\BankenSuche Forms\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "BankenSuche Forms\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:32:46.28Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateiSystemBankHelper.cs",
+              "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\De.Wortmann.Bank.Implementation\\DateiSystemBankHelper.cs",
+              "RelativeDocumentMoniker": "De.Wortmann.Bank.Implementation\\DateiSystemBankHelper.cs",
+              "ToolTip": "C:\\LABS\\Bankensuche 3000\\De.Wortmann.Bank.Implementation\\DateiSystemBankHelper.cs",
+              "RelativeToolTip": "De.Wortmann.Bank.Implementation\\DateiSystemBankHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:42:45.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankHelperTest.cs",
+              "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\BankensucheTests\\BankHelperTest.cs",
+              "RelativeDocumentMoniker": "BankensucheTests\\BankHelperTest.cs",
+              "ToolTip": "C:\\LABS\\Bankensuche 3000\\BankensucheTests\\BankHelperTest.cs",
+              "RelativeToolTip": "BankensucheTests\\BankHelperTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:32:06.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankHelper.cs",
+              "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\De.Wortmann.Banken.Interfaces\\BankHelper.cs",
+              "RelativeDocumentMoniker": "De.Wortmann.Banken.Interfaces\\BankHelper.cs",
+              "ToolTip": "C:\\LABS\\Bankensuche 3000\\De.Wortmann.Banken.Interfaces\\BankHelper.cs",
+              "RelativeToolTip": "De.Wortmann.Banken.Interfaces\\BankHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:19:13.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
