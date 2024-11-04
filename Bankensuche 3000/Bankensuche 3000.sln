@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De.Wortmann.Banken.Interfaces", "De.Wortmann.Banken.Interfaces\De.Wortmann.Banken.Interfaces.csproj", "{3FA1F3C2-4738-4EED-ADA0-CAF791F0684A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "De.Wortmann.Banken.Interfaces", "De.Wortmann.Banken.Interfaces\De.Wortmann.Banken.Interfaces.csproj", "{3FA1F3C2-4738-4EED-ADA0-CAF791F0684A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankensucheTests", "BankensucheTests\BankensucheTests.csproj", "{36F04675-3ACB-4933-BE90-A8AB935E1C5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankensucheTests", "BankensucheTests\BankensucheTests.csproj", "{36F04675-3ACB-4933-BE90-A8AB935E1C5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De.Wortmann.Bank.Implementation", "De.Wortmann.Bank.Implementation\De.Wortmann.Bank.Implementation.csproj", "{6044B10A-AEC5-4C43-8EF4-D6D62903507D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "De.Wortmann.Bank.Implementation", "De.Wortmann.Bank.Implementation\De.Wortmann.Bank.Implementation.csproj", "{6044B10A-AEC5-4C43-8EF4-D6D62903507D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankenSuche Forms", "BankenSuche Forms\BankenSuche Forms.csproj", "{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankenSuche Forms", "BankenSuche Forms\BankenSuche Forms.csproj", "{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankStatistik Console", "BankStatistik Console\BankStatistik Console.csproj", "{A5729236-310B-4FF8-9994-6FC6CAB680B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankStatistik Console", "BankStatistik Console\BankStatistik Console.csproj", "{A5729236-310B-4FF8-9994-6FC6CAB680B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

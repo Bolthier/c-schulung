@@ -12,7 +12,7 @@ namespace BankenSuche_Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            dataGridView1.DataSource = new DateiSystemBankHelper().StartSuche(textBox1.Text).Result;
+            dataGridView1.DataSource = new  DbBankHelper.StartSuche(textBox1.Text).Result;
         }
     }
 }
