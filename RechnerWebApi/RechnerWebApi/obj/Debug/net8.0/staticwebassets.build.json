@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RMB4QnlPzIzDw6wutVU9hTA7DEc9ctQeuRVXiC5LQF0=",
+  "Source": "RechnerWebApi",
+  "BasePath": "_content/RechnerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

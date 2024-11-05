@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\LABS\\The Wortmann Chat Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|c:\\labs\\the wortmann chat solution\\de.wortmann.chat.codefirstdb\\msghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|solutionrelative:de.wortmann.chat.codefirstdb\\msghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|c:\\labs\\the wortmann chat solution\\de.wortmann.chat.codefirstdb\\models\\chatmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|solutionrelative:de.wortmann.chat.codefirstdb\\models\\chatmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|c:\\labs\\the wortmann chat solution\\de.wortmann.chat.codefirstdb\\models\\mychatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|solutionrelative:de.wortmann.chat.codefirstdb\\models\\mychatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{924D7DD3-A68D-4AE8-8F45-61514843846D}|De.Wortmann.Chat.CodeFirstDbTests\\De.Wortmann.Chat.CodeFirstDbTests.csproj|c:\\labs\\the wortmann chat solution\\de.wortmann.chat.codefirstdbtests\\msghelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{924D7DD3-A68D-4AE8-8F45-61514843846D}|De.Wortmann.Chat.CodeFirstDbTests\\De.Wortmann.Chat.CodeFirstDbTests.csproj|solutionrelative:de.wortmann.chat.codefirstdbtests\\msghelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|c:\\labs\\the wortmann chat solution\\de.wortmann.chat.codefirstdb\\msghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|solutionrelative:de.wortmann.chat.codefirstdb\\msghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|c:\\labs\\the wortmann chat solution\\de.wortmann.chat.codefirstdb\\models\\chatmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5C5D03-C091-4048-8B36-8604BE2C2135}|De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj|solutionrelative:de.wortmann.chat.codefirstdb\\models\\chatmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MsgHelperTests.cs",
               "DocumentMoniker": "C:\\LABS\\The Wortmann Chat Solution\\De.Wortmann.Chat.CodeFirstDbTests\\MsgHelperTests.cs",
               "RelativeDocumentMoniker": "De.Wortmann.Chat.CodeFirstDbTests\\MsgHelperTests.cs",
@@ -42,38 +42,37 @@
               "RelativeToolTip": "De.Wortmann.Chat.CodeFirstDbTests\\MsgHelperTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:38:53.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T10:38:53.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "De.Wortmann.Chat.CodeFirstDb",
+              "DocumentIndex": 3,
+              "Title": "De.Wortmann.Chat.CodeFirstDb.csproj",
               "DocumentMoniker": "C:\\LABS\\The Wortmann Chat Solution\\De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj",
               "RelativeDocumentMoniker": "De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj",
               "ToolTip": "C:\\LABS\\The Wortmann Chat Solution\\De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj",
               "RelativeToolTip": "De.Wortmann.Chat.CodeFirstDb\\De.Wortmann.Chat.CodeFirstDb.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-05T10:25:44.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MyChatContext.cs",
               "DocumentMoniker": "C:\\LABS\\The Wortmann Chat Solution\\De.Wortmann.Chat.CodeFirstDb\\Models\\MyChatContext.cs",
               "RelativeDocumentMoniker": "De.Wortmann.Chat.CodeFirstDb\\Models\\MyChatContext.cs",
               "ToolTip": "C:\\LABS\\The Wortmann Chat Solution\\De.Wortmann.Chat.CodeFirstDb\\Models\\MyChatContext.cs",
               "RelativeToolTip": "De.Wortmann.Chat.CodeFirstDb\\Models\\MyChatContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T10:24:37.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ChatModel.cs",
               "DocumentMoniker": "C:\\LABS\\The Wortmann Chat Solution\\De.Wortmann.Chat.CodeFirstDb\\Models\\ChatModel.cs",
               "RelativeDocumentMoniker": "De.Wortmann.Chat.CodeFirstDb\\Models\\ChatModel.cs",
@@ -86,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MsgHelper.cs",
               "DocumentMoniker": "C:\\LABS\\The Wortmann Chat Solution\\De.Wortmann.Chat.CodeFirstDb\\MsgHelper.cs",
               "RelativeDocumentMoniker": "De.Wortmann.Chat.CodeFirstDb\\MsgHelper.cs",
