@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=C:\LABS\The Wortmann Chat Solution\Files\chatdb.db" Microsoft.EntityFrameworkCore.Sqlite -f -o Models -t chat

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\LABS\\Bankensuche 3000\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6044B10A-AEC5-4C43-8EF4-D6D62903507D}|De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj|c:\\labs\\bankensuche 3000\\de.wortmann.bank.implementation\\dbbankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6044B10A-AEC5-4C43-8EF4-D6D62903507D}|De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj|solutionrelative:de.wortmann.bank.implementation\\dbbankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}|BankenSuche Forms\\BankenSuche Forms.csproj|c:\\labs\\bankensuche 3000\\bankensuche forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}|BankenSuche Forms\\BankenSuche Forms.csproj|solutionrelative:bankensuche forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}|BankenSuche Forms\\BankenSuche Forms.csproj|C:\\LABS\\Bankensuche 3000\\bankensuche forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{13CFC833-4C26-46DA-BF17-E9AB64D8EA19}|BankenSuche Forms\\BankenSuche Forms.csproj|solutionrelative:bankensuche forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6044B10A-AEC5-4C43-8EF4-D6D62903507D}|De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj|c:\\labs\\bankensuche 3000\\de.wortmann.bank.implementation\\dbbankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6044B10A-AEC5-4C43-8EF4-D6D62903507D}|De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj|solutionrelative:de.wortmann.bank.implementation\\dbbankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6044B10A-AEC5-4C43-8EF4-D6D62903507D}|De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj|c:\\labs\\bankensuche 3000\\de.wortmann.bank.implementation\\dateisystembankhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,30 +42,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "De.Wortmann.Bank.Implementation",
+              "Title": "De.Wortmann.Bank.Implementation.csproj",
               "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj",
               "RelativeDocumentMoniker": "De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj",
               "ToolTip": "C:\\LABS\\Bankensuche 3000\\De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj",
               "RelativeToolTip": "De.Wortmann.Bank.Implementation\\De.Wortmann.Bank.Implementation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-04T13:59:22.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:59:22.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DbBankHelper.cs",
               "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\De.Wortmann.Bank.Implementation\\DbBankHelper.cs",
               "RelativeDocumentMoniker": "De.Wortmann.Bank.Implementation\\DbBankHelper.cs",
               "ToolTip": "C:\\LABS\\Bankensuche 3000\\De.Wortmann.Bank.Implementation\\DbBankHelper.cs",
               "RelativeToolTip": "De.Wortmann.Bank.Implementation\\DbBankHelper.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwBMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T13:59:15.668Z",
               "EditorCaption": ""
@@ -80,33 +79,31 @@
               "RelativeToolTip": "BankStatistik Console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:48:42.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T10:48:42.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\BankenSuche Forms\\Form1.cs",
               "RelativeDocumentMoniker": "BankenSuche Forms\\Form1.cs",
               "ToolTip": "C:\\LABS\\Bankensuche 3000\\BankenSuche Forms\\Form1.cs",
               "RelativeToolTip": "BankenSuche Forms\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T10:35:56.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Entwurf]",
               "DocumentMoniker": "C:\\LABS\\Bankensuche 3000\\BankenSuche Forms\\Form1.cs",
               "RelativeDocumentMoniker": "BankenSuche Forms\\Form1.cs",
               "ToolTip": "C:\\LABS\\Bankensuche 3000\\BankenSuche Forms\\Form1.cs [Entwurf]",
               "RelativeToolTip": "BankenSuche Forms\\Form1.cs [Entwurf]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:32:46.28Z",
-              "EditorCaption": " [Entwurf]"
+              "WhenOpened": "2024-11-04T10:32:46.28Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "De.Wortmann.Bank.Implementation\\DateiSystemBankHelper.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T09:42:45.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T09:42:45.233Z"
             },
             {
               "$type": "Document",

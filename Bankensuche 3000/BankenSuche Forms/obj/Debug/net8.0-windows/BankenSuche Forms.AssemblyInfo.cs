@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankenSuche Forms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+087fb5af05832e6abb50469f6e6ab4394f0b6ee2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dea432d7772c22d032cfddfd6c7ca394d54d4b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankenSuche Forms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankenSuche Forms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

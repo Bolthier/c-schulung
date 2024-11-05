@@ -9,7 +9,7 @@ using System.Transactions;
 
 namespace De.Wortmann.Bank.Implementation
 {
-    internal class DbBankHelper : BankHelper
+    public class DbBankHelper : BankHelper
     {
         private List<BankModel> bankModels;
         public string ConnectionString { get; set; } =
