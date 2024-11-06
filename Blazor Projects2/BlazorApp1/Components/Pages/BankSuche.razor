@@ -1,0 +1,48 @@
+﻿@page "/bank"
+@page "/bank/{suche}"
+@using BlazorApp1.Models
+@rendermode InteractiveServer
+
+@inject WortmannDbContext Ctx;
+
+<h3>BankSuche</h3>
+
+<input @bind-value="Suche" @onkeyup="StartSuche"/>
+<hr />
+<h4>@Daten?.Length Zeilen gefunden...</h4>
+
+<table>
+    <thead>
+        <tr><th>BLZ</th><th>Name</th><th>Plz</th><th>Ort</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Daten)
+        {
+            <tr>
+                <td>@item.Blz</td>
+                <td>@item.Name</td>
+                <td>@item.Plz</td>
+                <td>@item.Ort</td>
+            </tr>
+        }
+    </tbody>
+</table>
+@code {
+    public BlzTabelle[] Daten { get; set; } = new BlzTabelle[] {};
+    [Parameter]
+    public string Suche { get; set; } = "";
+    public async void StartSuche()
+    {
+        Daten = new BlzTabelle[] { };
+        if(Suche.Length>2)
+            Daten = Ctx.BlzTabelles.Where(x => x.Ort.Contains(Suche)).ToArray();
+        StateHasChanged();
+    }
+    protected override void OnParametersSet()
+    {
+        if (!string.IsNullOrEmpty(Suche))
+        {
+            StartSuche();
+        }
+    }
+}

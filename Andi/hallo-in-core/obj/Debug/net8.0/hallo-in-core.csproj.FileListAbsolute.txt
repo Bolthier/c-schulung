@@ -1,0 +1,14 @@
+T:\Andi\hallo-in-core\bin\Debug\net8.0\hallo-in-core.exe
+T:\Andi\hallo-in-core\bin\Debug\net8.0\hallo-in-core.deps.json
+T:\Andi\hallo-in-core\bin\Debug\net8.0\hallo-in-core.runtimeconfig.json
+T:\Andi\hallo-in-core\bin\Debug\net8.0\hallo-in-core.dll
+T:\Andi\hallo-in-core\bin\Debug\net8.0\hallo-in-core.pdb
+T:\Andi\hallo-in-core\obj\Debug\net8.0\hallo-in-core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\hallo-in-core\obj\Debug\net8.0\hallo-in-core.AssemblyInfoInputs.cache
+T:\Andi\hallo-in-core\obj\Debug\net8.0\hallo-in-core.AssemblyInfo.cs
+T:\Andi\hallo-in-core\obj\Debug\net8.0\hallo-in-core.csproj.CoreCompileInputs.cache
+T:\Andi\hallo-in-core\obj\Debug\net8.0\hallo-in-core.dll
+T:\Andi\hallo-in-core\obj\Debug\net8.0\refint\hallo-in-core.dll
+T:\Andi\hallo-in-core\obj\Debug\net8.0\hallo-in-core.pdb
+T:\Andi\hallo-in-core\obj\Debug\net8.0\hallo-in-core.genruntimeconfig.cache
+T:\Andi\hallo-in-core\obj\Debug\net8.0\ref\hallo-in-core.dll

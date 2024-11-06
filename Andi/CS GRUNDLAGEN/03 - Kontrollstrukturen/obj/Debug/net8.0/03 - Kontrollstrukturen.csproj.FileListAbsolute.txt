@@ -1,0 +1,14 @@
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\bin\Debug\net8.0\03 - Kontrollstrukturen.exe
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\bin\Debug\net8.0\03 - Kontrollstrukturen.deps.json
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\bin\Debug\net8.0\03 - Kontrollstrukturen.runtimeconfig.json
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\bin\Debug\net8.0\03 - Kontrollstrukturen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\bin\Debug\net8.0\03 - Kontrollstrukturen.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\03 - Kontrollstrukturen.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\03 - Kontrollstrukturen.AssemblyInfoInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\03 - Kontrollstrukturen.AssemblyInfo.cs
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\03 - Kontrollstrukturen.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\03 - Kontrollstrukturen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\refint\03 - Kontrollstrukturen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\03 - Kontrollstrukturen.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\03 - Kontrollstrukturen.genruntimeconfig.cache
+T:\Andi\LABS\CS GRUNDLAGEN\03 - Kontrollstrukturen\obj\Debug\net8.0\ref\03 - Kontrollstrukturen.dll

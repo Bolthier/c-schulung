@@ -1,0 +1,14 @@
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\bin\Debug\net8.0\Interface - IEnumerble.exe
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\bin\Debug\net8.0\Interface - IEnumerble.deps.json
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\bin\Debug\net8.0\Interface - IEnumerble.runtimeconfig.json
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\bin\Debug\net8.0\Interface - IEnumerble.dll
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\bin\Debug\net8.0\Interface - IEnumerble.pdb
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\Interface - IEnumerble.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\Interface - IEnumerble.AssemblyInfoInputs.cache
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\Interface - IEnumerble.AssemblyInfo.cs
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\Interface - IEnumerble.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\Interface - IEnumerble.dll
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\refint\Interface - IEnumerble.dll
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\Interface - IEnumerble.pdb
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\Interface - IEnumerble.genruntimeconfig.cache
+T:\Andi\LABS\Simple Interfaces\Interface - IEnumerble\obj\Debug\net8.0\ref\Interface - IEnumerble.dll

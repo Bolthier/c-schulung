@@ -1,0 +1,17 @@
+T:\Andi\LABS\MeinNotepad\MeinNotepad\bin\Debug\net8.0-windows\MeinNotepad.exe
+T:\Andi\LABS\MeinNotepad\MeinNotepad\bin\Debug\net8.0-windows\MeinNotepad.deps.json
+T:\Andi\LABS\MeinNotepad\MeinNotepad\bin\Debug\net8.0-windows\MeinNotepad.runtimeconfig.json
+T:\Andi\LABS\MeinNotepad\MeinNotepad\bin\Debug\net8.0-windows\MeinNotepad.dll
+T:\Andi\LABS\MeinNotepad\MeinNotepad\bin\Debug\net8.0-windows\MeinNotepad.pdb
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.Form1.resources
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.csproj.GenerateResource.cache
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.AssemblyInfoInputs.cache
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.AssemblyInfo.cs
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.sourcelink.json
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.dll
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\refint\MeinNotepad.dll
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.pdb
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\MeinNotepad.genruntimeconfig.cache
+T:\Andi\LABS\MeinNotepad\MeinNotepad\obj\Debug\net8.0-windows\ref\MeinNotepad.dll

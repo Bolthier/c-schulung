@@ -1,0 +1,12 @@
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\bin\Debug\net8.0\De.Wortmann.Interfaces.deps.json
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\bin\Debug\net8.0\De.Wortmann.Interfaces.dll
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\bin\Debug\net8.0\De.Wortmann.Interfaces.pdb
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\De.Wortmann.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\De.Wortmann.Interfaces.AssemblyInfoInputs.cache
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\De.Wortmann.Interfaces.AssemblyInfo.cs
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\De.Wortmann.Interfaces.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\De.Wortmann.Interfaces.sourcelink.json
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\De.Wortmann.Interfaces.dll
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\refint\De.Wortmann.Interfaces.dll
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\De.Wortmann.Interfaces.pdb
+T:\Andi\LABS\Project mit Test\De.Wortmann.Interfaces\obj\Debug\net8.0\ref\De.Wortmann.Interfaces.dll

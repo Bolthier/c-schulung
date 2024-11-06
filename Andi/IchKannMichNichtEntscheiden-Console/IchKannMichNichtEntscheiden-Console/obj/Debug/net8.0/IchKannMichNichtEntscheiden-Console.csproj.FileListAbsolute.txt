@@ -1,0 +1,15 @@
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\bin\Debug\net8.0\IchKannMichNichtEntscheiden-Console.exe
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\bin\Debug\net8.0\IchKannMichNichtEntscheiden-Console.deps.json
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\bin\Debug\net8.0\IchKannMichNichtEntscheiden-Console.runtimeconfig.json
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\bin\Debug\net8.0\IchKannMichNichtEntscheiden-Console.dll
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\bin\Debug\net8.0\IchKannMichNichtEntscheiden-Console.pdb
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\IchKannMichNichtEntscheiden-Console.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\IchKannMichNichtEntscheiden-Console.AssemblyInfoInputs.cache
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\IchKannMichNichtEntscheiden-Console.AssemblyInfo.cs
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\IchKannMichNichtEntscheiden-Console.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\IchKannMichNichtEntscheiden-Console.sourcelink.json
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\IchKannMichNichtEntscheiden-Console.dll
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\refint\IchKannMichNichtEntscheiden-Console.dll
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\IchKannMichNichtEntscheiden-Console.pdb
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\IchKannMichNichtEntscheiden-Console.genruntimeconfig.cache
+T:\Andi\LABS\IchKannMichNichtEntscheiden-Console\IchKannMichNichtEntscheiden-Console\obj\Debug\net8.0\ref\IchKannMichNichtEntscheiden-Console.dll

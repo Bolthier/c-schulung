@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Wortmann_Rechner_Console</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\De.Wortmann.Andi.Rechner\De.Wortmann.Andi.Rechner.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="De.Wortmann.Ben.Rechner">
+      <HintPath>..\..\..\..\Ben\LABS\Wortmann Rechner\De.Wortmann.Ben.Rechner\bin\Debug\net8.0\De.Wortmann.Ben.Rechner.dll</HintPath>
+    </Reference>
+    <Reference Include="De.Wortmann.Interfaces">
+      <HintPath>..\..\..\..\Installs\De.Wortmann.Interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

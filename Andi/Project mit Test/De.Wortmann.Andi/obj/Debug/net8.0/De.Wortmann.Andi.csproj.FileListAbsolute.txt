@@ -1,0 +1,12 @@
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\bin\Debug\net8.0\De.Wortmann.Andi.deps.json
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\bin\Debug\net8.0\De.Wortmann.Andi.dll
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\bin\Debug\net8.0\De.Wortmann.Andi.pdb
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\De.Wortmann.Andi.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\De.Wortmann.Andi.AssemblyInfoInputs.cache
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\De.Wortmann.Andi.AssemblyInfo.cs
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\De.Wortmann.Andi.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\De.Wortmann.Andi.sourcelink.json
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\De.Wortmann.Andi.dll
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\refint\De.Wortmann.Andi.dll
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\De.Wortmann.Andi.pdb
+T:\Andi\LABS\Project mit Test\De.Wortmann.Andi\obj\Debug\net8.0\ref\De.Wortmann.Andi.dll

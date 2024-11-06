@@ -1,0 +1,14 @@
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\bin\Debug\net8.0\09a - Klassen.exe
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\bin\Debug\net8.0\09a - Klassen.deps.json
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\bin\Debug\net8.0\09a - Klassen.runtimeconfig.json
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\bin\Debug\net8.0\09a - Klassen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\bin\Debug\net8.0\09a - Klassen.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\09a - Klassen.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\09a - Klassen.AssemblyInfoInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\09a - Klassen.AssemblyInfo.cs
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\09a - Klassen.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\09a - Klassen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\refint\09a - Klassen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\09a - Klassen.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\09a - Klassen.genruntimeconfig.cache
+T:\Andi\LABS\CS GRUNDLAGEN\09a - Klassen\obj\Debug\net8.0\ref\09a - Klassen.dll

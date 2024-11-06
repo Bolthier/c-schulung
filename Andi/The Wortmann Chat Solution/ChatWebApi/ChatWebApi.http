@@ -1,0 +1,6 @@
+@ChatWebApi_HostAddress = http://172.26.7.67:5144
+
+GET {{ChatWebApi_HostAddress}}/chat
+Accept: application/json
+
+###

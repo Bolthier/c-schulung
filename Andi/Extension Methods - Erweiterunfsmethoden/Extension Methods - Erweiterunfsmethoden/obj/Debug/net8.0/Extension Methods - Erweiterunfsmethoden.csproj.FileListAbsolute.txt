@@ -1,0 +1,15 @@
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\bin\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.exe
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\bin\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.deps.json
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\bin\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.runtimeconfig.json
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\bin\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.dll
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\bin\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.pdb
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.AssemblyInfoInputs.cache
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.AssemblyInfo.cs
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.sourcelink.json
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.dll
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\refint\Extension Methods - Erweiterunfsmethoden.dll
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.pdb
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\Extension Methods - Erweiterunfsmethoden.genruntimeconfig.cache
+T:\Andi\LABS\Extension Methods - Erweiterunfsmethoden\Extension Methods - Erweiterunfsmethoden\obj\Debug\net8.0\ref\Extension Methods - Erweiterunfsmethoden.dll

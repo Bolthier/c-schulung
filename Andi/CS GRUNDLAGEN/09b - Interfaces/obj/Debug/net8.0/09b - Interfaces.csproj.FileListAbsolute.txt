@@ -1,0 +1,14 @@
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\bin\Debug\net8.0\09b - Interfaces.exe
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\bin\Debug\net8.0\09b - Interfaces.deps.json
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\bin\Debug\net8.0\09b - Interfaces.runtimeconfig.json
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\bin\Debug\net8.0\09b - Interfaces.dll
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\bin\Debug\net8.0\09b - Interfaces.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\09b - Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\09b - Interfaces.AssemblyInfoInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\09b - Interfaces.AssemblyInfo.cs
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\09b - Interfaces.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\09b - Interfaces.dll
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\refint\09b - Interfaces.dll
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\09b - Interfaces.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\09b - Interfaces.genruntimeconfig.cache
+T:\Andi\LABS\CS GRUNDLAGEN\09b - Interfaces\obj\Debug\net8.0\ref\09b - Interfaces.dll

@@ -1,0 +1,15 @@
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\bin\Debug\net8.0\Events - Dateisystem beobachten.exe
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\bin\Debug\net8.0\Events - Dateisystem beobachten.deps.json
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\bin\Debug\net8.0\Events - Dateisystem beobachten.runtimeconfig.json
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\bin\Debug\net8.0\Events - Dateisystem beobachten.dll
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\bin\Debug\net8.0\Events - Dateisystem beobachten.pdb
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\Events - Dateisystem beobachten.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\Events - Dateisystem beobachten.AssemblyInfoInputs.cache
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\Events - Dateisystem beobachten.AssemblyInfo.cs
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\Events - Dateisystem beobachten.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\Events - Dateisystem beobachten.sourcelink.json
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\Events - Dateisystem beobachten.dll
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\refint\Events - Dateisystem beobachten.dll
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\Events - Dateisystem beobachten.pdb
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\Events - Dateisystem beobachten.genruntimeconfig.cache
+T:\Andi\LABS\Events - Dateisystem beobachten\Events - Dateisystem beobachten\obj\Debug\net8.0\ref\Events - Dateisystem beobachten.dll

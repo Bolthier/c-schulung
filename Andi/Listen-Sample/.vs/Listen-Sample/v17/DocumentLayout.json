@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Listen-Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631F6883-D81D-49F4-8C3D-F19DAEDD2A96}|Listen-Sample\\Listen-Sample.csproj|t:\\andi\\labs\\listen-sample\\listen-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631F6883-D81D-49F4-8C3D-F19DAEDD2A96}|Listen-Sample\\Listen-Sample.csproj|solutionrelative:listen-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Listen-Sample\\Listen-Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Listen-Sample\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Listen-Sample\\Listen-Sample\\Program.cs",
+              "RelativeToolTip": "Listen-Sample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:00:36.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

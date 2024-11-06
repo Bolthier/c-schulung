@@ -1,0 +1,14 @@
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\bin\Debug\net8.0\01 - Datentypen und Variablen.exe
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\bin\Debug\net8.0\01 - Datentypen und Variablen.deps.json
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\bin\Debug\net8.0\01 - Datentypen und Variablen.runtimeconfig.json
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\bin\Debug\net8.0\01 - Datentypen und Variablen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\bin\Debug\net8.0\01 - Datentypen und Variablen.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\01 - Datentypen und Variablen.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\01 - Datentypen und Variablen.AssemblyInfoInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\01 - Datentypen und Variablen.AssemblyInfo.cs
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\01 - Datentypen und Variablen.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\01 - Datentypen und Variablen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\refint\01 - Datentypen und Variablen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\01 - Datentypen und Variablen.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\01 - Datentypen und Variablen.genruntimeconfig.cache
+T:\Andi\LABS\CS GRUNDLAGEN\01 - Datentypen und Variablen\obj\Debug\net8.0\ref\01 - Datentypen und Variablen.dll

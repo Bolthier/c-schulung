@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LABS\\Blazor Projects2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE93EC79-2FF9-4FB6-A93A-592E5C4333CC}|BlazorApp1\\BlazorApp1.csproj|c:\\labs\\blazor projects2\\blazorapp1\\components\\pages\\banksuche.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE93EC79-2FF9-4FB6-A93A-592E5C4333CC}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\banksuche.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE93EC79-2FF9-4FB6-A93A-592E5C4333CC}|BlazorApp1\\BlazorApp1.csproj|c:\\labs\\blazor projects2\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE93EC79-2FF9-4FB6-A93A-592E5C4333CC}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\LABS\\Blazor Projects2\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\LABS\\Blazor Projects2\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T12:35:45.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankSuche.razor",
+              "DocumentMoniker": "C:\\LABS\\Blazor Projects2\\BlazorApp1\\Components\\Pages\\BankSuche.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\BankSuche.razor",
+              "ToolTip": "C:\\LABS\\Blazor Projects2\\BlazorApp1\\Components\\Pages\\BankSuche.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\BankSuche.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T11:11:01.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

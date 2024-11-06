@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bildersucher-Form/1.0.0": {
+        "dependencies": {
+          "De.Andi.WIE.Business": "1.0.0"
+        },
+        "runtime": {
+          "Bildersucher-Form.dll": {}
+        }
+      },
+      "De.Andi.WIE.Business/1.0.0": {
+        "runtime": {
+          "De.Andi.WIE.Business.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bildersucher-Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "De.Andi.WIE.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

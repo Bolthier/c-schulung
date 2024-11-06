@@ -1,0 +1,14 @@
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\bin\Debug\net8.0\04 - Funktionen.exe
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\bin\Debug\net8.0\04 - Funktionen.deps.json
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\bin\Debug\net8.0\04 - Funktionen.runtimeconfig.json
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\bin\Debug\net8.0\04 - Funktionen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\bin\Debug\net8.0\04 - Funktionen.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\04 - Funktionen.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\04 - Funktionen.AssemblyInfoInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\04 - Funktionen.AssemblyInfo.cs
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\04 - Funktionen.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\04 - Funktionen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\refint\04 - Funktionen.dll
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\04 - Funktionen.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\04 - Funktionen.genruntimeconfig.cache
+T:\Andi\LABS\CS GRUNDLAGEN\04 - Funktionen\obj\Debug\net8.0\ref\04 - Funktionen.dll

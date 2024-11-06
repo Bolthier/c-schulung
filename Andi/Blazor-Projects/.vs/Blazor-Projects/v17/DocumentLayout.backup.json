@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Blazor-Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECCE56C-FB67-428D-BBC3-D297544BAB99}|First\\First.csproj|t:\\andi\\labs\\blazor-projects\\first\\components\\pages\\banksuche.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECCE56C-FB67-428D-BBC3-D297544BAB99}|First\\First.csproj|solutionrelative:first\\components\\pages\\banksuche.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECCE56C-FB67-428D-BBC3-D297544BAB99}|First\\First.csproj|t:\\andi\\labs\\blazor-projects\\first\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECCE56C-FB67-428D-BBC3-D297544BAB99}|First\\First.csproj|solutionrelative:first\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECCE56C-FB67-428D-BBC3-D297544BAB99}|First\\First.csproj|t:\\andi\\labs\\blazor-projects\\first\\components\\pages\\bmi.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECCE56C-FB67-428D-BBC3-D297544BAB99}|First\\First.csproj|solutionrelative:first\\components\\pages\\bmi.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECCE56C-FB67-428D-BBC3-D297544BAB99}|First\\First.csproj|t:\\andi\\labs\\blazor-projects\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECCE56C-FB67-428D-BBC3-D297544BAB99}|First\\First.csproj|solutionrelative:first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Blazor-Projects\\First\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "First\\Components\\Pages\\Home.razor",
+              "ToolTip": "T:\\Andi\\LABS\\Blazor-Projects\\First\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "First\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T12:33:54.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankSuche.razor",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Blazor-Projects\\First\\Components\\Pages\\BankSuche.razor",
+              "RelativeDocumentMoniker": "First\\Components\\Pages\\BankSuche.razor",
+              "ToolTip": "T:\\Andi\\LABS\\Blazor-Projects\\First\\Components\\Pages\\BankSuche.razor*",
+              "RelativeToolTip": "First\\Components\\Pages\\BankSuche.razor*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T11:11:03.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bmi.razor",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Blazor-Projects\\First\\Components\\Pages\\Bmi.razor",
+              "RelativeDocumentMoniker": "First\\Components\\Pages\\Bmi.razor",
+              "ToolTip": "T:\\Andi\\LABS\\Blazor-Projects\\First\\Components\\Pages\\Bmi.razor",
+              "RelativeToolTip": "First\\Components\\Pages\\Bmi.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T11:06:31.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Blazor-Projects\\First\\Program.cs",
+              "RelativeDocumentMoniker": "First\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Blazor-Projects\\First\\Program.cs",
+              "RelativeToolTip": "First\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:04:57.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

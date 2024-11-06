@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "01 - Datentypen und Variablen/1.0.0": {
+        "runtime": {
+          "01 - Datentypen und Variablen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01 - Datentypen und Variablen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\PachWorkDecke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|t:\\andi\\labs\\pachworkdecke\\pachworkdecke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|solutionrelative:pachworkdecke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|t:\\andi\\labs\\pachworkdecke\\pachworkdecke\\dreieck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|solutionrelative:pachworkdecke\\dreieck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|t:\\andi\\labs\\pachworkdecke\\pachworkdecke\\kreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|solutionrelative:pachworkdecke\\kreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|t:\\andi\\labs\\pachworkdecke\\pachworkdecke\\qudrad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|solutionrelative:pachworkdecke\\qudrad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|t:\\andi\\labs\\pachworkdecke\\pachworkdecke\\ifigur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B12F60-918C-4E47-8F11-08E65E4AE187}|PachWorkDecke\\PachWorkDecke.csproj|solutionrelative:pachworkdecke\\ifigur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dreieck.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\Dreieck.cs",
+              "RelativeDocumentMoniker": "PachWorkDecke\\Dreieck.cs",
+              "ToolTip": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\Dreieck.cs",
+              "RelativeToolTip": "PachWorkDecke\\Dreieck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:20:45.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kreis.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\Kreis.cs",
+              "RelativeDocumentMoniker": "PachWorkDecke\\Kreis.cs",
+              "ToolTip": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\Kreis.cs",
+              "RelativeToolTip": "PachWorkDecke\\Kreis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:15:29.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Qudrad.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\Qudrad.cs",
+              "RelativeDocumentMoniker": "PachWorkDecke\\Qudrad.cs",
+              "ToolTip": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\Qudrad.cs",
+              "RelativeToolTip": "PachWorkDecke\\Qudrad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:08:19.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFigur.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\IFigur.cs",
+              "RelativeDocumentMoniker": "PachWorkDecke\\IFigur.cs",
+              "ToolTip": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\IFigur.cs",
+              "RelativeToolTip": "PachWorkDecke\\IFigur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:02:10.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\Program.cs",
+              "RelativeDocumentMoniker": "PachWorkDecke\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\PachWorkDecke\\PachWorkDecke\\Program.cs",
+              "RelativeToolTip": "PachWorkDecke\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:01:15.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

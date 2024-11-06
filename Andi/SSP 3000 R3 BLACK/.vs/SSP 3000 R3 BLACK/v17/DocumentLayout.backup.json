@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\SSP 3000 R3 BLACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A527C5A7-CE31-4C8E-BFB7-CAFEE09EC032}|SSP 3000 R3 BLACK\\SSP 3000 R3 BLACK.csproj|t:\\andi\\labs\\ssp 3000 r3 black\\ssp 3000 r3 black\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A527C5A7-CE31-4C8E-BFB7-CAFEE09EC032}|SSP 3000 R3 BLACK\\SSP 3000 R3 BLACK.csproj|solutionrelative:ssp 3000 r3 black\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A527C5A7-CE31-4C8E-BFB7-CAFEE09EC032}|SSP 3000 R3 BLACK\\SSP 3000 R3 BLACK.csproj|t:\\andi\\labs\\ssp 3000 r3 black\\ssp 3000 r3 black\\thegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A527C5A7-CE31-4C8E-BFB7-CAFEE09EC032}|SSP 3000 R3 BLACK\\SSP 3000 R3 BLACK.csproj|solutionrelative:ssp 3000 r3 black\\thegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheGame.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\SSP 3000 R3 BLACK\\SSP 3000 R3 BLACK\\TheGame.cs",
+              "RelativeDocumentMoniker": "SSP 3000 R3 BLACK\\TheGame.cs",
+              "ToolTip": "T:\\Andi\\LABS\\SSP 3000 R3 BLACK\\SSP 3000 R3 BLACK\\TheGame.cs",
+              "RelativeToolTip": "SSP 3000 R3 BLACK\\TheGame.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:59:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\SSP 3000 R3 BLACK\\SSP 3000 R3 BLACK\\Program.cs",
+              "RelativeDocumentMoniker": "SSP 3000 R3 BLACK\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\SSP 3000 R3 BLACK\\SSP 3000 R3 BLACK\\Program.cs",
+              "RelativeToolTip": "SSP 3000 R3 BLACK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:59:06.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

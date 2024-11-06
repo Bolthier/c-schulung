@@ -1,0 +1,14 @@
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\bin\Debug\net8.0\02 - Operatoren.exe
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\bin\Debug\net8.0\02 - Operatoren.deps.json
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\bin\Debug\net8.0\02 - Operatoren.runtimeconfig.json
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\bin\Debug\net8.0\02 - Operatoren.dll
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\bin\Debug\net8.0\02 - Operatoren.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\02 - Operatoren.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\02 - Operatoren.AssemblyInfoInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\02 - Operatoren.AssemblyInfo.cs
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\02 - Operatoren.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\02 - Operatoren.dll
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\refint\02 - Operatoren.dll
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\02 - Operatoren.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\02 - Operatoren.genruntimeconfig.cache
+T:\Andi\LABS\CS GRUNDLAGEN\02 - Operatoren\obj\Debug\net8.0\ref\02 - Operatoren.dll

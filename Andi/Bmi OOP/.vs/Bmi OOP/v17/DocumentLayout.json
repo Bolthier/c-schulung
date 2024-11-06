@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Bmi OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A59160D-13CD-481C-9811-035E68E62ECE}|Bmi OOP\\Bmi OOP.csproj|t:\\andi\\labs\\bmi oop\\bmi oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A59160D-13CD-481C-9811-035E68E62ECE}|Bmi OOP\\Bmi OOP.csproj|solutionrelative:bmi oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Bmi OOP\\Bmi OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Bmi OOP\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Bmi OOP\\Bmi OOP\\Program.cs",
+              "RelativeToolTip": "Bmi OOP\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:35:52.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

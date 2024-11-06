@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Simple Event\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33844379-35B7-4AAD-98A5-A9C475B1BBB4}|Simple Event\\Simple Event.csproj|t:\\andi\\labs\\simple event\\simple event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33844379-35B7-4AAD-98A5-A9C475B1BBB4}|Simple Event\\Simple Event.csproj|solutionrelative:simple event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Simple Event\\Simple Event\\Program.cs",
+              "RelativeDocumentMoniker": "Simple Event\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Simple Event\\Simple Event\\Program.cs",
+              "RelativeToolTip": "Simple Event\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:01:53.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\bin\Debug\net8.0\Interface - IComparer.exe
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\bin\Debug\net8.0\Interface - IComparer.deps.json
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\bin\Debug\net8.0\Interface - IComparer.runtimeconfig.json
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\bin\Debug\net8.0\Interface - IComparer.dll
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\bin\Debug\net8.0\Interface - IComparer.pdb
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\Interface - IComparer.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\Interface - IComparer.AssemblyInfoInputs.cache
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\Interface - IComparer.AssemblyInfo.cs
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\Interface - IComparer.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\Interface - IComparer.dll
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\refint\Interface - IComparer.dll
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\Interface - IComparer.pdb
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\Interface - IComparer.genruntimeconfig.cache
+T:\Andi\LABS\Simple Interfaces\Interface - IComparer\obj\Debug\net8.0\ref\Interface - IComparer.dll

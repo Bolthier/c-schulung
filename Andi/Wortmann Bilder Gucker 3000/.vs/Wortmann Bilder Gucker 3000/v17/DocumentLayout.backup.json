@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD5BDE3-C579-4BE7-89BF-C31E847C151E}|Bildersucher-Form\\Bildersucher-Form.csproj|t:\\andi\\labs\\wortmann bilder gucker 3000\\bildersucher-form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD5BDE3-C579-4BE7-89BF-C31E847C151E}|Bildersucher-Form\\Bildersucher-Form.csproj|solutionrelative:bildersucher-form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651BAC10-7D60-4161-98E5-C66A97FE98B6}|De.Andi.WIE.Business\\De.Andi.WIE.Business.csproj|t:\\andi\\labs\\wortmann bilder gucker 3000\\de.andi.wie.business\\bildersammler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651BAC10-7D60-4161-98E5-C66A97FE98B6}|De.Andi.WIE.Business\\De.Andi.WIE.Business.csproj|solutionrelative:de.andi.wie.business\\bildersammler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD5BDE3-C579-4BE7-89BF-C31E847C151E}|Bildersucher-Form\\Bildersucher-Form.csproj|t:\\andi\\labs\\wortmann bilder gucker 3000\\bildersucher-form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADD5BDE3-C579-4BE7-89BF-C31E847C151E}|Bildersucher-Form\\Bildersucher-Form.csproj|solutionrelative:bildersucher-form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76B4FF8-D48E-4458-A9E2-AA69B3BDDAAE}|De.Andi.WIE.BusinessTests\\De.Andi.WIE.BusinessTests.csproj|t:\\andi\\labs\\wortmann bilder gucker 3000\\de.andi.wie.businesstests\\bildersammlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76B4FF8-D48E-4458-A9E2-AA69B3BDDAAE}|De.Andi.WIE.BusinessTests\\De.Andi.WIE.BusinessTests.csproj|solutionrelative:de.andi.wie.businesstests\\bildersammlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\Bildersucher-Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Bildersucher-Form\\Form1.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\Bildersucher-Form\\Form1.cs*",
+              "RelativeToolTip": "Bildersucher-Form\\Form1.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:26:59.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\Bildersucher-Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Bildersucher-Form\\Form1.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\Bildersucher-Form\\Form1.cs [Entwurf]*",
+              "RelativeToolTip": "Bildersucher-Form\\Form1.cs [Entwurf]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:19:49.808Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BilderSammlerTests.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\De.Andi.WIE.BusinessTests\\BilderSammlerTests.cs",
+              "RelativeDocumentMoniker": "De.Andi.WIE.BusinessTests\\BilderSammlerTests.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\De.Andi.WIE.BusinessTests\\BilderSammlerTests.cs",
+              "RelativeToolTip": "De.Andi.WIE.BusinessTests\\BilderSammlerTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:45:03.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BilderSammler.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\De.Andi.WIE.Business\\BilderSammler.cs",
+              "RelativeDocumentMoniker": "De.Andi.WIE.Business\\BilderSammler.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Wortmann Bilder Gucker 3000\\De.Andi.WIE.Business\\BilderSammler.cs",
+              "RelativeToolTip": "De.Andi.WIE.Business\\BilderSammler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:34:48.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

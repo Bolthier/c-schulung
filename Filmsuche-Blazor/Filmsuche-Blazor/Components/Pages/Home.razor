@@ -1,0 +1,59 @@
+﻿@page "/"
+@using Filmsuche
+@using System.Text.Json;
+@rendermode InteractiveServer
+
+
+<PageTitle>Filmsuche</PageTitle>
+
+<h1>Suche deinen Film!</h1>
+<hr />
+<div>
+    <input @bind-value="Input" />
+    <button @onclick="SearchFilm">GO</button>
+</div>
+<hr />
+<table>
+    <thead>
+        <tr><th>Filmname</th><th>Jahr</th><th>Type</th><th>Poster</th></tr>
+    </thead>
+    @if (filmsuche.Search != null) {
+    <tbody>
+        @foreach (var item in filmsuche.Search)
+            {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>@item.Year</td>
+                    <td>@item.Type</td>
+                    <td><img src="@item.Poster" width="auto" height="200em" /></td>
+                </tr>
+            }
+    </tbody>
+    }
+</table>
+
+@code {
+    public FilmModel filmsuche { get; set; } = new FilmModel { };
+    [Parameter]
+    public string Input { get; set; } = "";
+    public async void SearchFilm()
+    {
+        var httpClient = new HttpClient() { BaseAddress = new Uri("https://omdbapi.com") };
+        var response = httpClient.GetAsync($"?apikey=477bca08&s={Input}").Result;
+        if (!response.IsSuccessStatusCode)
+        {
+            return;
+        }
+        var json = response.Content.ReadAsStringAsync().Result;
+        filmsuche = JsonSerializer.Deserialize<FilmModel>(json);
+
+    }
+    protected override void OnParametersSet()
+    {
+        if (!string.IsNullOrEmpty(Input))
+        {
+            SearchFilm();
+        }
+    }
+
+}

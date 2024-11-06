@@ -1,0 +1,22 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@inject NavigationManager Nav
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+<ul>
+    <li><a href="bank">Bankensuche (a)</a></li>
+    <li><NavLink href="bank">Banksuche (Navlink)</NavLink></li>
+    <li><button @onclick="Goto">Banksuche</button></li>
+
+    <li><NavLink href="bank/hüllhorst">Banksuche Hüllhorst (Navlink)</NavLink></li>
+    <li><button @onclick="Goto">Banksuche Hüllhorst</button></li>
+</ul>
+
+@code {
+    public void Goto()
+    {
+        Nav.NavigateTo("bank");
+    }
+}

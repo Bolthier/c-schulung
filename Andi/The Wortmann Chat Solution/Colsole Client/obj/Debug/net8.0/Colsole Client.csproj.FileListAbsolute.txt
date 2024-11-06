@@ -1,0 +1,57 @@
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Colsole Client.exe
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Colsole Client.deps.json
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Colsole Client.runtimeconfig.json
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Colsole Client.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Colsole Client.pdb
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\De.Wortmann.Chat.Db.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\bin\Debug\net8.0\De.Wortmann.Chat.Db.pdb
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.csproj.AssemblyReference.cache
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.AssemblyInfoInputs.cache
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.AssemblyInfo.cs
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.sourcelink.json
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole .D66786E0.Up2Date
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\refint\Colsole Client.dll
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.pdb
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\Colsole Client.genruntimeconfig.cache
+T:\Andi\LABS\The Wortmann Chat Solution\Colsole Client\obj\Debug\net8.0\ref\Colsole Client.dll

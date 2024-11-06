@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Project mit Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8036F46-028A-4274-B51B-FB0953143FE4}|De.Wortmann.Interfaces\\De.Wortmann.Interfaces.csproj|t:\\andi\\labs\\project mit test\\de.wortmann.interfaces\\irechner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8036F46-028A-4274-B51B-FB0953143FE4}|De.Wortmann.Interfaces\\De.Wortmann.Interfaces.csproj|solutionrelative:de.wortmann.interfaces\\irechner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F393F9-FCA3-4C1F-80DB-F3886CE3442F}|De.Wortmann.Andi\\De.Wortmann.Andi.csproj|t:\\andi\\labs\\project mit test\\de.wortmann.andi\\mensch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F393F9-FCA3-4C1F-80DB-F3886CE3442F}|De.Wortmann.Andi\\De.Wortmann.Andi.csproj|solutionrelative:de.wortmann.andi\\mensch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10649083-97A4-4F6B-BE67-211E59EE6760}|De.Wortmann.AndiTests\\De.Wortmann.AndiTests.csproj|t:\\andi\\labs\\project mit test\\de.wortmann.anditests\\menschtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10649083-97A4-4F6B-BE67-211E59EE6760}|De.Wortmann.AndiTests\\De.Wortmann.AndiTests.csproj|solutionrelative:de.wortmann.anditests\\menschtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRechner.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Project mit Test\\De.Wortmann.Interfaces\\IRechner.cs",
+              "RelativeDocumentMoniker": "De.Wortmann.Interfaces\\IRechner.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Project mit Test\\De.Wortmann.Interfaces\\IRechner.cs",
+              "RelativeToolTip": "De.Wortmann.Interfaces\\IRechner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:21:27.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenschTests.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Project mit Test\\De.Wortmann.AndiTests\\MenschTests.cs",
+              "RelativeDocumentMoniker": "De.Wortmann.AndiTests\\MenschTests.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Project mit Test\\De.Wortmann.AndiTests\\MenschTests.cs",
+              "RelativeToolTip": "De.Wortmann.AndiTests\\MenschTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:00:40.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mensch.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Project mit Test\\De.Wortmann.Andi\\Mensch.cs",
+              "RelativeDocumentMoniker": "De.Wortmann.Andi\\Mensch.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Project mit Test\\De.Wortmann.Andi\\Mensch.cs",
+              "RelativeToolTip": "De.Wortmann.Andi\\Mensch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:54:53.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

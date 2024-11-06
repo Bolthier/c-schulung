@@ -1,0 +1,14 @@
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\bin\Debug\net8.0\05 - Array FELD.exe
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\bin\Debug\net8.0\05 - Array FELD.deps.json
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\bin\Debug\net8.0\05 - Array FELD.runtimeconfig.json
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\bin\Debug\net8.0\05 - Array FELD.dll
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\bin\Debug\net8.0\05 - Array FELD.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\05 - Array FELD.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\05 - Array FELD.AssemblyInfoInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\05 - Array FELD.AssemblyInfo.cs
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\05 - Array FELD.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\05 - Array FELD.dll
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\refint\05 - Array FELD.dll
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\05 - Array FELD.pdb
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\05 - Array FELD.genruntimeconfig.cache
+T:\Andi\LABS\CS GRUNDLAGEN\05 - Array FELD\obj\Debug\net8.0\ref\05 - Array FELD.dll

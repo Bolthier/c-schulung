@@ -1,0 +1,15 @@
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\bin\Debug\net8.0\Dateien unter Windows.exe
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\bin\Debug\net8.0\Dateien unter Windows.deps.json
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\bin\Debug\net8.0\Dateien unter Windows.runtimeconfig.json
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\bin\Debug\net8.0\Dateien unter Windows.dll
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\bin\Debug\net8.0\Dateien unter Windows.pdb
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\Dateien unter Windows.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\Dateien unter Windows.AssemblyInfoInputs.cache
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\Dateien unter Windows.AssemblyInfo.cs
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\Dateien unter Windows.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\Dateien unter Windows.sourcelink.json
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\Dateien unter Windows.dll
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\refint\Dateien unter Windows.dll
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\Dateien unter Windows.pdb
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\Dateien unter Windows.genruntimeconfig.cache
+T:\Andi\LABS\Dateien unter Windows\Dateien unter Windows\obj\Debug\net8.0\ref\Dateien unter Windows.dll

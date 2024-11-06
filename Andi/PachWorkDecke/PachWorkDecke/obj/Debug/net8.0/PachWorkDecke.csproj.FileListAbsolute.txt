@@ -1,0 +1,14 @@
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\bin\Debug\net8.0\PachWorkDecke.exe
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\bin\Debug\net8.0\PachWorkDecke.deps.json
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\bin\Debug\net8.0\PachWorkDecke.runtimeconfig.json
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\bin\Debug\net8.0\PachWorkDecke.dll
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\bin\Debug\net8.0\PachWorkDecke.pdb
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\PachWorkDecke.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\PachWorkDecke.AssemblyInfoInputs.cache
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\PachWorkDecke.AssemblyInfo.cs
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\PachWorkDecke.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\PachWorkDecke.dll
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\refint\PachWorkDecke.dll
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\PachWorkDecke.pdb
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\PachWorkDecke.genruntimeconfig.cache
+T:\Andi\LABS\PachWorkDecke\PachWorkDecke\obj\Debug\net8.0\ref\PachWorkDecke.dll

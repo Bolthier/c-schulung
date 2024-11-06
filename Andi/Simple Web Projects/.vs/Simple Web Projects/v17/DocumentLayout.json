@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Simple Web Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E81AA6-AD6A-4BC6-9CFB-3A75C429D1DB}|MVCWeb\\MVCWeb.csproj|t:\\andi\\labs\\simple web projects\\mvcweb\\views\\wortmann\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08E81AA6-AD6A-4BC6-9CFB-3A75C429D1DB}|MVCWeb\\MVCWeb.csproj|solutionrelative:mvcweb\\views\\wortmann\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E81AA6-AD6A-4BC6-9CFB-3A75C429D1DB}|MVCWeb\\MVCWeb.csproj|t:\\andi\\labs\\simple web projects\\mvcweb\\controllers\\wortmanncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E81AA6-AD6A-4BC6-9CFB-3A75C429D1DB}|MVCWeb\\MVCWeb.csproj|solutionrelative:mvcweb\\controllers\\wortmanncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WortmannController.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Simple Web Projects\\MVCWeb\\Controllers\\WortmannController.cs",
+              "RelativeDocumentMoniker": "MVCWeb\\Controllers\\WortmannController.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Simple Web Projects\\MVCWeb\\Controllers\\WortmannController.cs",
+              "RelativeToolTip": "MVCWeb\\Controllers\\WortmannController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:11:57.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Simple Web Projects\\MVCWeb\\Views\\Wortmann\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWeb\\Views\\Wortmann\\Index.cshtml",
+              "ToolTip": "T:\\Andi\\LABS\\Simple Web Projects\\MVCWeb\\Views\\Wortmann\\Index.cshtml",
+              "RelativeToolTip": "MVCWeb\\Views\\Wortmann\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:08:47.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

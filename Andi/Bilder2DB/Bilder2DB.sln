@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilder2DB", "Bilder2DB\Bilder2DB.csproj", "{D76F6C59-54FF-4FDD-A5CB-E27E7A2BEECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BensPictureViewer", "BensPictureViewer\BensPictureViewer.csproj", "{DF9DFE33-1CEB-4DCC-8DF3-DF05DAE43CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76F6C59-54FF-4FDD-A5CB-E27E7A2BEECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76F6C59-54FF-4FDD-A5CB-E27E7A2BEECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76F6C59-54FF-4FDD-A5CB-E27E7A2BEECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76F6C59-54FF-4FDD-A5CB-E27E7A2BEECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9DFE33-1CEB-4DCC-8DF3-DF05DAE43CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9DFE33-1CEB-4DCC-8DF3-DF05DAE43CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9DFE33-1CEB-4DCC-8DF3-DF05DAE43CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9DFE33-1CEB-4DCC-8DF3-DF05DAE43CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0577717A-AB1D-4518-9E89-8ECD0B283E58}
+	EndGlobalSection
+EndGlobal

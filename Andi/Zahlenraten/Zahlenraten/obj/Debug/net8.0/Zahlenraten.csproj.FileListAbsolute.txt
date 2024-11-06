@@ -1,0 +1,14 @@
+T:\Andi\LABS\Zahlenraten\Zahlenraten\bin\Debug\net8.0\Zahlenraten.exe
+T:\Andi\LABS\Zahlenraten\Zahlenraten\bin\Debug\net8.0\Zahlenraten.deps.json
+T:\Andi\LABS\Zahlenraten\Zahlenraten\bin\Debug\net8.0\Zahlenraten.runtimeconfig.json
+T:\Andi\LABS\Zahlenraten\Zahlenraten\bin\Debug\net8.0\Zahlenraten.dll
+T:\Andi\LABS\Zahlenraten\Zahlenraten\bin\Debug\net8.0\Zahlenraten.pdb
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\Zahlenraten.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\Zahlenraten.AssemblyInfoInputs.cache
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\Zahlenraten.AssemblyInfo.cs
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\Zahlenraten.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\Zahlenraten.dll
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\refint\Zahlenraten.dll
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\Zahlenraten.pdb
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\Zahlenraten.genruntimeconfig.cache
+T:\Andi\LABS\Zahlenraten\Zahlenraten\obj\Debug\net8.0\ref\Zahlenraten.dll

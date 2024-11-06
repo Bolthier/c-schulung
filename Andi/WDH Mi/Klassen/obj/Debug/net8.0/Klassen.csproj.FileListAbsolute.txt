@@ -1,0 +1,15 @@
+T:\Andi\LABS\WDH Mi\Klassen\bin\Debug\net8.0\Klassen.exe
+T:\Andi\LABS\WDH Mi\Klassen\bin\Debug\net8.0\Klassen.deps.json
+T:\Andi\LABS\WDH Mi\Klassen\bin\Debug\net8.0\Klassen.runtimeconfig.json
+T:\Andi\LABS\WDH Mi\Klassen\bin\Debug\net8.0\Klassen.dll
+T:\Andi\LABS\WDH Mi\Klassen\bin\Debug\net8.0\Klassen.pdb
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\Klassen.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\Klassen.AssemblyInfoInputs.cache
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\Klassen.AssemblyInfo.cs
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\Klassen.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\Klassen.sourcelink.json
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\Klassen.dll
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\refint\Klassen.dll
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\Klassen.pdb
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\Klassen.genruntimeconfig.cache
+T:\Andi\LABS\WDH Mi\Klassen\obj\Debug\net8.0\ref\Klassen.dll

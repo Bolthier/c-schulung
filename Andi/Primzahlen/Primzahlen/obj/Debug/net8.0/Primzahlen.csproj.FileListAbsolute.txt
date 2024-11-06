@@ -1,0 +1,14 @@
+T:\Andi\LABS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.exe
+T:\Andi\LABS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.deps.json
+T:\Andi\LABS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.runtimeconfig.json
+T:\Andi\LABS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.dll
+T:\Andi\LABS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.pdb
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.AssemblyInfoInputs.cache
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.AssemblyInfo.cs
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.dll
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\refint\Primzahlen.dll
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.pdb
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.genruntimeconfig.cache
+T:\Andi\LABS\Primzahlen\Primzahlen\obj\Debug\net8.0\ref\Primzahlen.dll

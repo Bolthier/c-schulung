@@ -1,0 +1,23 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+@inject NavigationManager Nav
+
+<PageTitle>Home</PageTitle>
+
+<h1>Wortmann-WEB</h1>
+
+<ul>
+    <li><a href="bank" >Bankensuche (a)</a> </li>
+    <li><NavLink href="bank">Banksuche (NavLink)</NavLink></li>
+    <li> <button @onclick="Goto">Banksuche</button> </li>
+
+    <li><NavLink href="bank/hüllhorst">Banksuche Hüllhorst(NavLink)</NavLink></li>
+</ul>
+
+@code{
+    public void Goto()
+    {
+        Nav.NavigateTo("bank");
+    }
+}

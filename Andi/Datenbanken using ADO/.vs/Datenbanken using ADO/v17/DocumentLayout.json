@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Datenbanken using ADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B16029E-5ADE-409E-A792-E3680BF60810}|05 - Connection versus ORM\\05 - Connection versus ORM.csproj|t:\\andi\\labs\\datenbanken using ado\\05 - connection versus orm\\05 - connection versus orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B16029E-5ADE-409E-A792-E3680BF60810}|05 - Connection versus ORM\\05 - Connection versus ORM.csproj|solutionrelative:05 - connection versus orm\\05 - connection versus orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8725C6F-06E9-474E-A741-C9319D4EF8A8}|04 - Import BLZ\\04 - Import BLZ.csproj|t:\\andi\\labs\\datenbanken using ado\\04 - import blz\\04 - import blz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8725C6F-06E9-474E-A741-C9319D4EF8A8}|04 - Import BLZ\\04 - Import BLZ.csproj|solutionrelative:04 - import blz\\04 - import blz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C9E948-80FB-45AF-A5B0-1996FF57D349}|03 - Import PLZ\\03 - Import PLZ.csproj|t:\\andi\\labs\\datenbanken using ado\\03 - import plz\\03 - import plz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5C9E948-80FB-45AF-A5B0-1996FF57D349}|03 - Import PLZ\\03 - Import PLZ.csproj|solutionrelative:03 - import plz\\03 - import plz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B16029E-5ADE-409E-A792-E3680BF60810}|05 - Connection versus ORM\\05 - Connection versus ORM.csproj|t:\\andi\\labs\\datenbanken using ado\\05 - connection versus orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B16029E-5ADE-409E-A792-E3680BF60810}|05 - Connection versus ORM\\05 - Connection versus ORM.csproj|solutionrelative:05 - connection versus orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "05 - Connection versus ORM",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Datenbanken using ADO\\05 - Connection versus ORM\\05 - Connection versus ORM.csproj",
+              "RelativeDocumentMoniker": "05 - Connection versus ORM\\05 - Connection versus ORM.csproj",
+              "ToolTip": "T:\\Andi\\LABS\\Datenbanken using ADO\\05 - Connection versus ORM\\05 - Connection versus ORM.csproj",
+              "RelativeToolTip": "05 - Connection versus ORM\\05 - Connection versus ORM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T10:58:28.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "04 - Import BLZ",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Datenbanken using ADO\\04 - Import BLZ\\04 - Import BLZ.csproj",
+              "RelativeDocumentMoniker": "04 - Import BLZ\\04 - Import BLZ.csproj",
+              "ToolTip": "T:\\Andi\\LABS\\Datenbanken using ADO\\04 - Import BLZ\\04 - Import BLZ.csproj",
+              "RelativeToolTip": "04 - Import BLZ\\04 - Import BLZ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T10:58:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03 - Import PLZ",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Datenbanken using ADO\\03 - Import PLZ\\03 - Import PLZ.csproj",
+              "RelativeDocumentMoniker": "03 - Import PLZ\\03 - Import PLZ.csproj",
+              "ToolTip": "T:\\Andi\\LABS\\Datenbanken using ADO\\03 - Import PLZ\\03 - Import PLZ.csproj",
+              "RelativeToolTip": "03 - Import PLZ\\03 - Import PLZ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T10:58:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Datenbanken using ADO\\05 - Connection versus ORM\\Program.cs",
+              "RelativeDocumentMoniker": "05 - Connection versus ORM\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Datenbanken using ADO\\05 - Connection versus ORM\\Program.cs",
+              "RelativeToolTip": "05 - Connection versus ORM\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:20:58.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

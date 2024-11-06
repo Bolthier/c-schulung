@@ -1,0 +1,18 @@
+﻿@page "/bmi"
+@rendermode InteractiveServer
+
+<h3>BmiRechner</h3>
+<div>
+    <label>Größe:</label>
+    <input @bind-value="Person.Groesse" class="form-control"/>
+</div>
+<div>
+    <label>Gewicht: <span class="badge bg-info">@Person.Gewicht</span></label>
+    <input type="range" min="30" max="200" @bind-value="Person.Gewicht" class="form-control" />
+</div>
+<button class="btn btn-primary">Berechne</button>
+<div class="badge bg-info" style="background-color:@(Person.IsOk?"cyan":"pink")">Dein BMI: @($"{Person.Bmi:0.00}")</div>
+
+@code {
+    public Person Person { get; set; } = new Person();
+}

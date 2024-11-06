@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Extension Methods - Erweiterunfsmethoden\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6E88B5-6E1B-4BC9-9B36-6392D66FC041}|Extension Methods - Erweiterunfsmethoden\\Extension Methods - Erweiterunfsmethoden.csproj|t:\\andi\\labs\\extension methods - erweiterunfsmethoden\\extension methods - erweiterunfsmethoden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6E88B5-6E1B-4BC9-9B36-6392D66FC041}|Extension Methods - Erweiterunfsmethoden\\Extension Methods - Erweiterunfsmethoden.csproj|solutionrelative:extension methods - erweiterunfsmethoden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Extension Methods - Erweiterunfsmethoden\\Extension Methods - Erweiterunfsmethoden\\Program.cs",
+              "RelativeDocumentMoniker": "Extension Methods - Erweiterunfsmethoden\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Extension Methods - Erweiterunfsmethoden\\Extension Methods - Erweiterunfsmethoden\\Program.cs",
+              "RelativeToolTip": "Extension Methods - Erweiterunfsmethoden\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:12:39.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

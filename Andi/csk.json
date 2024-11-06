@@ -1,0 +1,21 @@
+{
+  "Titel": "C# - Grundkurs",
+  "Teilnehmers": [
+    {
+      "ALter": 17,
+      "Name": "Julian"
+    },
+    {
+      "Name": "Ben",
+      "ALter": 22
+    },
+    {
+      "Name": "Fabius",
+      "ALter": 20
+    },
+    {
+      "Name": "Patrick",
+      "ALter": 26
+    }
+  ]
+}

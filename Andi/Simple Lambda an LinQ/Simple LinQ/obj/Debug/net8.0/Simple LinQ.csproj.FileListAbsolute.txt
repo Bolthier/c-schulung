@@ -1,0 +1,15 @@
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\bin\Debug\net8.0\Simple LinQ.exe
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\bin\Debug\net8.0\Simple LinQ.deps.json
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\bin\Debug\net8.0\Simple LinQ.runtimeconfig.json
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\bin\Debug\net8.0\Simple LinQ.dll
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\bin\Debug\net8.0\Simple LinQ.pdb
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\Simple LinQ.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\Simple LinQ.AssemblyInfoInputs.cache
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\Simple LinQ.AssemblyInfo.cs
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\Simple LinQ.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\Simple LinQ.sourcelink.json
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\Simple LinQ.dll
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\refint\Simple LinQ.dll
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\Simple LinQ.pdb
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\Simple LinQ.genruntimeconfig.cache
+T:\Andi\LABS\Simple Lambda an LinQ\Simple LinQ\obj\Debug\net8.0\ref\Simple LinQ.dll

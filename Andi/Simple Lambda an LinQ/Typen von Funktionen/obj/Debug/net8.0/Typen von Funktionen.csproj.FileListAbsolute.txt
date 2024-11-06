@@ -1,0 +1,15 @@
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\bin\Debug\net8.0\Typen von Funktionen.exe
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\bin\Debug\net8.0\Typen von Funktionen.deps.json
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\bin\Debug\net8.0\Typen von Funktionen.runtimeconfig.json
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\bin\Debug\net8.0\Typen von Funktionen.dll
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\bin\Debug\net8.0\Typen von Funktionen.pdb
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\Typen von Funktionen.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\Typen von Funktionen.AssemblyInfoInputs.cache
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\Typen von Funktionen.AssemblyInfo.cs
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\Typen von Funktionen.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\Typen von Funktionen.sourcelink.json
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\Typen von Funktionen.dll
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\refint\Typen von Funktionen.dll
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\Typen von Funktionen.pdb
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\Typen von Funktionen.genruntimeconfig.cache
+T:\Andi\LABS\Simple Lambda an LinQ\Typen von Funktionen\obj\Debug\net8.0\ref\Typen von Funktionen.dll

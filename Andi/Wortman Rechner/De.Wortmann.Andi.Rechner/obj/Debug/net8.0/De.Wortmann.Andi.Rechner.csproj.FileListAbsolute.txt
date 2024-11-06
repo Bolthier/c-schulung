@@ -1,0 +1,15 @@
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\bin\Debug\net8.0\De.Wortmann.Andi.Rechner.deps.json
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\bin\Debug\net8.0\De.Wortmann.Andi.Rechner.dll
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\bin\Debug\net8.0\De.Wortmann.Andi.Rechner.pdb
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\bin\Debug\net8.0\De.Wortmann.Interfaces.dll
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortmann.Andi.Rechner.csproj.AssemblyReference.cache
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortmann.Andi.Rechner.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortmann.Andi.Rechner.AssemblyInfoInputs.cache
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortmann.Andi.Rechner.AssemblyInfo.cs
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortmann.Andi.Rechner.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortmann.Andi.Rechner.sourcelink.json
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortm.6E42784A.Up2Date
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortmann.Andi.Rechner.dll
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\refint\De.Wortmann.Andi.Rechner.dll
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\De.Wortmann.Andi.Rechner.pdb
+T:\Andi\LABS\Wortman Rechner\De.Wortmann.Andi.Rechner\obj\Debug\net8.0\ref\De.Wortmann.Andi.Rechner.dll

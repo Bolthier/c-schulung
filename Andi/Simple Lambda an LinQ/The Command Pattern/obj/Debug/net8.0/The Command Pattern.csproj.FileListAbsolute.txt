@@ -1,0 +1,15 @@
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\bin\Debug\net8.0\The Command Pattern.exe
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\bin\Debug\net8.0\The Command Pattern.deps.json
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\bin\Debug\net8.0\The Command Pattern.runtimeconfig.json
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\bin\Debug\net8.0\The Command Pattern.dll
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\bin\Debug\net8.0\The Command Pattern.pdb
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\The Command Pattern.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\The Command Pattern.AssemblyInfoInputs.cache
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\The Command Pattern.AssemblyInfo.cs
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\The Command Pattern.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\The Command Pattern.sourcelink.json
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\The Command Pattern.dll
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\refint\The Command Pattern.dll
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\The Command Pattern.pdb
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\The Command Pattern.genruntimeconfig.cache
+T:\Andi\LABS\Simple Lambda an LinQ\The Command Pattern\obj\Debug\net8.0\ref\The Command Pattern.dll

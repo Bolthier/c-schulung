@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "zlidV9D952VjEVx2n7jn3Kuc5cU3RNb1KCFlALoWxGo=",
+  "Source": "Filmsuche-Blazor",
+  "BasePath": "_content/Filmsuche-Blazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Filmsuche-Blazor\\wwwroot",
+      "Source": "Filmsuche-Blazor",
+      "ContentRoot": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\wwwroot\\",
+      "BasePath": "_content/Filmsuche-Blazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Filmsuche-Blazor.styles.css",
+      "SourceId": "Filmsuche-Blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Filmsuche-Blazor",
+      "RelativePath": "Filmsuche-Blazor.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Filmsuche-Blazor.styles.css"
+    },
+    {
+      "Identity": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Filmsuche-Blazor.bundle.scp.css",
+      "SourceId": "Filmsuche-Blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Filmsuche-Blazor",
+      "RelativePath": "Filmsuche-Blazor.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Filmsuche-Blazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\wwwroot\\app.css",
+      "SourceId": "Filmsuche-Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LABS\\Filmsuche-Blazor\\Filmsuche-Blazor\\wwwroot\\",
+      "BasePath": "_content/Filmsuche-Blazor",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

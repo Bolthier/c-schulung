@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\FIlmsuche\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|t:\\andi\\labs\\filmsuche\\filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|solutionrelative:filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|t:\\andi\\labs\\filmsuche\\filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|solutionrelative:filmsuche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|t:\\andi\\labs\\filmsuche\\filmsuche\\bildmittitelctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|solutionrelative:filmsuche\\bildmittitelctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|t:\\andi\\labs\\filmsuche\\filmsuche\\bildmittitelctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|solutionrelative:filmsuche\\bildmittitelctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|t:\\andi\\labs\\filmsuche\\filmsuche\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAA53D0-46D8-4D90-8835-E1D6D7862532}|FIlmsuche\\FIlmsuche.csproj|solutionrelative:filmsuche\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BildMitTitelCtrl.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\BildMitTitelCtrl.cs",
+              "RelativeDocumentMoniker": "FIlmsuche\\BildMitTitelCtrl.cs",
+              "ToolTip": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\BildMitTitelCtrl.cs",
+              "RelativeToolTip": "FIlmsuche\\BildMitTitelCtrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:06:25.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BildMitTitelCtrl.cs [Entwurf]",
+              "DocumentMoniker": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\BildMitTitelCtrl.cs",
+              "RelativeDocumentMoniker": "FIlmsuche\\BildMitTitelCtrl.cs",
+              "ToolTip": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\BildMitTitelCtrl.cs [Entwurf]",
+              "RelativeToolTip": "FIlmsuche\\BildMitTitelCtrl.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:02:57.729Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmModel.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\FilmModel.cs",
+              "RelativeDocumentMoniker": "FIlmsuche\\FilmModel.cs",
+              "ToolTip": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\FilmModel.cs",
+              "RelativeToolTip": "FIlmsuche\\FilmModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:57:01.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\Form1.cs",
+              "RelativeDocumentMoniker": "FIlmsuche\\Form1.cs",
+              "ToolTip": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\Form1.cs",
+              "RelativeToolTip": "FIlmsuche\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:44:34.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\Form1.cs",
+              "RelativeDocumentMoniker": "FIlmsuche\\Form1.cs",
+              "ToolTip": "T:\\Andi\\LABS\\FIlmsuche\\FIlmsuche\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "FIlmsuche\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:39:32.735Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

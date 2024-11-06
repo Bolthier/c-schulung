@@ -1,0 +1,46 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+<!--
+    Kommentar HTML
+-->
+
+<PageTitle>Zählerseite ( @Zaehler ) </PageTitle>
+
+<h3>Counter: @Zaehler  </h3>
+
+<button @onclick="erhoeheZähler">Zähle</button>
+
+<input type="text" @bind-value="Zaehler"/>
+
+<hr/>
+    <h1>@Zeit</h1>
+<hr />
+
+
+
+
+@* ************************************************************************************ *@
+
+@code {
+    //Kommentar c#
+    public int Zaehler { get; set; } = 0;
+    public string Zeit { get; set; }
+
+    protected override void OnInitialized()
+    {
+        new Thread(() =>
+        {
+            while (true)
+            {
+                Zeit = DateTime.Now.ToLongTimeString();
+                Thread.Sleep(1000);
+                InvokeAsync(() => this.StateHasChanged());
+            }
+        }).Start();
+    }
+
+    public void erhoeheZähler()
+    {
+        Zaehler++;
+    }
+}

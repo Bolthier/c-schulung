@@ -1,0 +1,64 @@
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\01 - Simple Connected Environment.exe
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\01 - Simple Connected Environment.deps.json
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\01 - Simple Connected Environment.runtimeconfig.json
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\01 - Simple Connected Environment.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\01 - Simple Connected Environment.pdb
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Azure.Core.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Azure.Identity.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\System.Drawing.Common.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\System.Memory.Data.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\System.Runtime.Caching.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\System.Security.Permissions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\System.Windows.Extensions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.csproj.AssemblyReference.cache
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.AssemblyInfoInputs.cache
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.AssemblyInfo.cs
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.sourcelink.json
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Sim.F5D54403.Up2Date
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\refint\01 - Simple Connected Environment.dll
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.pdb
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\01 - Simple Connected Environment.genruntimeconfig.cache
+T:\Andi\LABS\Datenbanken using ADO\01 - Simple Connected Environment\obj\Debug\net8.0\ref\01 - Simple Connected Environment.dll

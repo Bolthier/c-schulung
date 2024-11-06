@@ -1,0 +1,17 @@
+T:\Andi\LABS\Simple Form App\Simple Form App\bin\Debug\net8.0-windows\Simple Form App.exe
+T:\Andi\LABS\Simple Form App\Simple Form App\bin\Debug\net8.0-windows\Simple Form App.deps.json
+T:\Andi\LABS\Simple Form App\Simple Form App\bin\Debug\net8.0-windows\Simple Form App.runtimeconfig.json
+T:\Andi\LABS\Simple Form App\Simple Form App\bin\Debug\net8.0-windows\Simple Form App.dll
+T:\Andi\LABS\Simple Form App\Simple Form App\bin\Debug\net8.0-windows\Simple Form App.pdb
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple_Form_App.Form1.resources
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.csproj.GenerateResource.cache
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.GeneratedMSBuildEditorConfig.editorconfig
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.AssemblyInfoInputs.cache
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.AssemblyInfo.cs
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.csproj.CoreCompileInputs.cache
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.sourcelink.json
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.dll
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\refint\Simple Form App.dll
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.pdb
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\Simple Form App.genruntimeconfig.cache
+T:\Andi\LABS\Simple Form App\Simple Form App\obj\Debug\net8.0-windows\ref\Simple Form App.dll

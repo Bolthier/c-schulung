@@ -1,0 +1,15 @@
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\bin\Debug\net8.0\Extension Method - Erweiterungsmethode.exe
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\bin\Debug\net8.0\Extension Method - Erweiterungsmethode.deps.json
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\bin\Debug\net8.0\Extension Method - Erweiterungsmethode.runtimeconfig.json
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\bin\Debug\net8.0\Extension Method - Erweiterungsmethode.dll
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\bin\Debug\net8.0\Extension Method - Erweiterungsmethode.pdb
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\Extension Method - Erweiterungsmethode.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\Extension Method - Erweiterungsmethode.AssemblyInfoInputs.cache
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\Extension Method - Erweiterungsmethode.AssemblyInfo.cs
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\Extension Method - Erweiterungsmethode.csproj.CoreCompileInputs.cache
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\Extension Method - Erweiterungsmethode.sourcelink.json
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\Extension Method - Erweiterungsmethode.dll
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\refint\Extension Method - Erweiterungsmethode.dll
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\Extension Method - Erweiterungsmethode.pdb
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\Extension Method - Erweiterungsmethode.genruntimeconfig.cache
+C:\LABS\Extension Method - Erweiterungsmethode\Extension Method - Erweiterungsmethode\obj\Debug\net8.0\ref\Extension Method - Erweiterungsmethode.dll

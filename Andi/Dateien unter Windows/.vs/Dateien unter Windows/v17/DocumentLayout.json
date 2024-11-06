@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Andi\\LABS\\Dateien unter Windows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5125A700-1890-40F0-873D-CD6DFB6E4A33}|Dateien unter Windows\\Dateien unter Windows.csproj|t:\\andi\\labs\\dateien unter windows\\dateien unter windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5125A700-1890-40F0-873D-CD6DFB6E4A33}|Dateien unter Windows\\Dateien unter Windows.csproj|solutionrelative:dateien unter windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Andi\\LABS\\Dateien unter Windows\\Dateien unter Windows\\Program.cs",
+              "RelativeDocumentMoniker": "Dateien unter Windows\\Program.cs",
+              "ToolTip": "T:\\Andi\\LABS\\Dateien unter Windows\\Dateien unter Windows\\Program.cs",
+              "RelativeToolTip": "Dateien unter Windows\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:49:23.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
