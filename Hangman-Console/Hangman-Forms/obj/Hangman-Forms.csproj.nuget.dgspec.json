@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LABS\\Hangman-Console\\Hangman-Forms\\Hangman-Forms.csproj": {}
+    "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Forms\\Hangman-Forms.csproj": {}
   },
   "projects": {
-    "C:\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj": {
+    "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj",
+        "projectUniqueName": "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj",
         "projectName": "Hangman-Console",
-        "projectPath": "C:\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj",
+        "projectPath": "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj",
         "packagesPath": "C:\\Users\\Schulung\\.nuget\\packages\\",
-        "outputPath": "C:\\LABS\\Hangman-Console\\Hangman-Console\\obj\\",
+        "outputPath": "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Schulung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\LABS\\Hangman-Console\\Hangman-Forms\\Hangman-Forms.csproj": {
+    "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Forms\\Hangman-Forms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LABS\\Hangman-Console\\Hangman-Forms\\Hangman-Forms.csproj",
+        "projectUniqueName": "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Forms\\Hangman-Forms.csproj",
         "projectName": "Hangman-Forms",
-        "projectPath": "C:\\LABS\\Hangman-Console\\Hangman-Forms\\Hangman-Forms.csproj",
+        "projectPath": "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Forms\\Hangman-Forms.csproj",
         "packagesPath": "C:\\Users\\Schulung\\.nuget\\packages\\",
-        "outputPath": "C:\\LABS\\Hangman-Console\\Hangman-Forms\\obj\\",
+        "outputPath": "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Forms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Schulung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj": {
-                "projectPath": "C:\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj"
+              "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj": {
+                "projectPath": "T:\\Andi\\LABS\\Hangman-Console\\Hangman-Console\\Hangman-Console.csproj"
               }
             }
           }

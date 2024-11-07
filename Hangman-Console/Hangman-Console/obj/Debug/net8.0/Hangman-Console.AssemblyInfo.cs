@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hangman-Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ab77525fac9e3466cde3fec873857a7aedadab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df5da95a76ad71c1b68afb2edee0d43201e0c4d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hangman-Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hangman-Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

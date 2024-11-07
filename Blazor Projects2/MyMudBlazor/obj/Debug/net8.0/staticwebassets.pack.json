@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\LABS\\Blazor Projects2\\MyMudBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyMudBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyMudBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\LABS\\Blazor Projects2\\MyMudBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyMudBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyMudBlazor.props",
+      "PackagePath": "build\\MyMudBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMudBlazor.props",
+      "PackagePath": "buildMultiTargeting\\MyMudBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyMudBlazor.props",
+      "PackagePath": "buildTransitive\\MyMudBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

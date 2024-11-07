@@ -1,0 +1,58 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyMudBlazor
+build_property.RootNamespace = MyMudBlazor
+build_property.ProjectDir = C:\LABS\Blazor Projects2\MyMudBlazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\LABS\Blazor Projects2\MyMudBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/Pages/GruppenStatisitik.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHcnVwcGVuU3RhdGlzaXRpay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/Pages/SimpleDataGrid.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaW1wbGVEYXRhR3JpZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/Pages/_InfoDlg.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xfSW5mb0RsZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/LABS/Blazor Projects2/MyMudBlazor/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-le49aohiav

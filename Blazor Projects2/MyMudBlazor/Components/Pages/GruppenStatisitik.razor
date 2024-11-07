@@ -1,0 +1,47 @@
+﻿@page "/stats"
+@using MyMudBlazor.Models
+@inject NorthwndContext Ctx;
+
+<h3>GruppenStatisitik</h3>
+
+<MudAutocomplete Label="Gruppen" SearchFunc="@AutocompleteFunction" ToStringFunc="@(x => x==null?null:x:CategoryName)" @bind-Value=AktuelleGruppe CoerceText />
+<MudButton @onclick="() => LadeDiagramm()">Zeige Diagramm</MudButton>
+<hr />
+<MudPaper>
+    <MudChart ChartType="ChartType.Pie" InputData="@DiagrammDatas" InputLabels="DiagrammLabels"  />
+</MudPaper>
+
+
+@code {
+    public Category[] Gruppens { get; set; }
+    public Category AktuelleGruppe { get; set; }
+    public string[] DiagrammLabels { get; set; }
+    public double[] DiagrammDatas { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Gruppens = Ctx.Categories.ToArray();
+    }
+
+    void LadeDiagramm()
+    {
+        var q = Ctx.UmsatzByGruppes.Where(x => x.CategoryId == AktuelleGruppe.CategoryId)
+                .OrderByDescending(x => x.Umsatz)
+                .Take(5);
+        DiagrammLabels = q.Select(x => x.Country).ToArray();
+        DiagrammDatas = q.Select(x => (double)x.Umsatz).ToArray();
+
+    }
+
+    async Task<IEnumerable<Category>> AutocompleteFunction(string query, CancellationToken token)
+    {
+        Task.Delay(100, token);
+        if (string.IsNullOrEmpty(query)) {
+            return Gruppens;
+        }
+        else
+        {
+            return Gruppens.Where(x => x.CategoryName.Contains(query,StringComparison.InvariantCultureIgnoreCase));
+        }
+    }
+}

@@ -1,0 +1,21 @@
+﻿@page "/"
+@inject ISnackbar Sb;
+@inject NavigationManager Nav;
+
+<PageTitle>MyMud Blazor</PageTitle>
+
+<h1>Hi Mud Blazor!</h1>
+
+<MudButton Variant="Variant.Outlined" Color="Color.Success" @onclick="@(() => Sb.Add("Hallo Wortmann"))">
+    Snackbar
+</MudButton>
+<MudButton Variant="Variant.Outlined" Color="Color.Error" @onclick="@(() => Nav.NavigateTo("DataGrid"))">
+    Datagrid
+</MudButton>
+<MudButton Variant="Variant.Outlined" Color="Color.Error" @onclick="@(() => Nav.NavigateTo("stats"))">
+    Statistik
+</MudButton>
+
+@code {
+
+}

@@ -1,0 +1,22 @@
+﻿@page "/counter2"
+@using BlazorApp1.Services
+@rendermode InteractiveServer
+@inject IMyCounter MyCounter
+
+<h3>Counter2</h3>
+<h1>@MyCounter.Counter</h1>
+
+<button @onclick="()=>MyCounter.Count()">Count up</button>
+<h1>@MyCounter.Counter</h1>
+<button @onclick="()=>MyCounter.Count()">Count up</button>
+<h1>@MyCounter.Counter</h1>
+<button @onclick="()=>MyCounter.Count()">Count up</button>
+@code {
+    protected override void OnInitialized()
+    {
+        MyCounter.CounterChanged += () =>
+        {
+            this.StateHasChanged();
+        };
+    }
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LABS\\Hangman-ConsoleAndi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D50931-DA92-488B-965C-C37347FC25D2}|HangmanWeb\\HangmanWeb.csproj|c:\\labs\\hangman-consoleandi\\hangmanweb\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D50931-DA92-488B-965C-C37347FC25D2}|HangmanWeb\\HangmanWeb.csproj|solutionrelative:hangmanweb\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D50931-DA92-488B-965C-C37347FC25D2}|HangmanWeb\\HangmanWeb.csproj|c:\\labs\\hangman-consoleandi\\hangmanweb\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D50931-DA92-488B-965C-C37347FC25D2}|HangmanWeb\\HangmanWeb.csproj|solutionrelative:hangmanweb\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D50931-DA92-488B-965C-C37347FC25D2}|HangmanWeb\\HangmanWeb.csproj|c:\\labs\\hangman-consoleandi\\hangmanweb\\hangmanweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80D50931-DA92-488B-965C-C37347FC25D2}|HangmanWeb\\HangmanWeb.csproj|solutionrelative:hangmanweb\\hangmanweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D50931-DA92-488B-965C-C37347FC25D2}|HangmanWeb\\HangmanWeb.csproj|c:\\labs\\hangman-consoleandi\\hangmanweb\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80D50931-DA92-488B-965C-C37347FC25D2}|HangmanWeb\\HangmanWeb.csproj|solutionrelative:hangmanweb\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822ABF1D-0720-428D-A716-7229B33AA685}|Hangman-Console\\Hangman-Console.csproj|c:\\labs\\hangman-consoleandi\\hangman-console\\business\\hangman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822ABF1D-0720-428D-A716-7229B33AA685}|Hangman-Console\\Hangman-Console.csproj|solutionrelative:hangman-console\\business\\hangman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangmanWeb",
+              "DocumentMoniker": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\HangmanWeb.csproj",
+              "RelativeDocumentMoniker": "HangmanWeb\\HangmanWeb.csproj",
+              "ToolTip": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\HangmanWeb.csproj",
+              "RelativeToolTip": "HangmanWeb\\HangmanWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T14:21:45.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "HangmanWeb\\wwwroot\\app.css",
+              "ToolTip": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\app.css",
+              "RelativeToolTip": "HangmanWeb\\wwwroot\\app.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-07T14:08:21.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hangman.cs",
+              "DocumentMoniker": "C:\\LABS\\Hangman-ConsoleAndi\\Hangman-Console\\Business\\Hangman.cs",
+              "RelativeDocumentMoniker": "Hangman-Console\\Business\\Hangman.cs",
+              "ToolTip": "C:\\LABS\\Hangman-ConsoleAndi\\Hangman-Console\\Business\\Hangman.cs",
+              "RelativeToolTip": "Hangman-Console\\Business\\Hangman.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:04:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\Components\\App.razor",
+              "RelativeDocumentMoniker": "HangmanWeb\\Components\\App.razor",
+              "ToolTip": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\Components\\App.razor",
+              "RelativeToolTip": "HangmanWeb\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:58:18.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HangmanWeb\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "HangmanWeb\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:51:43.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

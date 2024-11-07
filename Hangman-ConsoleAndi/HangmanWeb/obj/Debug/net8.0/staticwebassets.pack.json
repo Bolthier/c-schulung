@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HangmanWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HangmanWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-0.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-0.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-1.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-10.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-10.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-2.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-3.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-4.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-5.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-6.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-7.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-8.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-8.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\Images\\galgen-9.jpg",
+      "PackagePath": "staticwebassets\\Images\\galgen-9.jpg"
+    },
+    {
+      "Id": "C:\\LABS\\Hangman-ConsoleAndi\\HangmanWeb\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HangmanWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HangmanWeb.props",
+      "PackagePath": "build\\HangmanWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HangmanWeb.props",
+      "PackagePath": "buildMultiTargeting\\HangmanWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HangmanWeb.props",
+      "PackagePath": "buildTransitive\\HangmanWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

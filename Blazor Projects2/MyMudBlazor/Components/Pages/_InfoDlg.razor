@@ -1,0 +1,24 @@
+﻿@inject NorthwndContext Ctx;
+
+
+<MudDialog>
+    <TitleContent>
+        <h3>Kunden zu Artikel: @Id</h3>
+    </TitleContent>
+    <DialogContent>
+        <MudDataGrid Items="Ctx.KundenByProductIds.Where(x=>x.ProductId==Id)">
+            <Columns>
+                <PropertyColumn Title="Name" Property="x=>x.CompanyName" />
+            </Columns>
+        </MudDataGrid>
+    </DialogContent>
+    <DialogActions>
+        <MudButton Variant="Variant.Filled" @onclick="()=>Instance.Close()">Schließen</MudButton>
+    </DialogActions>
+</MudDialog>
+@code {
+    [CascadingParameter]
+    MudDialogInstance Instance { get; set; }
+    [Parameter]
+    public int Id { get; set; }
+}

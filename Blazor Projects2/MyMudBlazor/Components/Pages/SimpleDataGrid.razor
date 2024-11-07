@@ -1,0 +1,36 @@
+﻿@page "/datagrid"
+@using Microsoft.EntityFrameworkCore
+@using MyMudBlazor.Models
+
+@inject NorthwndContext Ctx
+@inject IDialogService Ds
+
+<h3>SimpleDataGrid</h3>
+
+
+<MudDataGrid Items='Ctx.Products.Include("Category").Take(10)'>
+    <Columns>
+        <PropertyColumn Filterable="true"  Property="x=>x.ProductId" Title="Id"></PropertyColumn>
+        <PropertyColumn Property="x=>x.ProductName" Title="Name"></PropertyColumn>
+        <PropertyColumn Property="x=>x.UnitPrice" Title="Price"></PropertyColumn>
+        <PropertyColumn Property="x=>x.Category.CategoryName" Title="Gruppenname"></PropertyColumn>
+        <TemplateColumn Title="Aktionen">
+            <CellTemplate>
+                <MudStack Row>
+                    <MudChip>@context.Item.UnitPrice</MudChip>
+                    <MudIconButton @onclick="()=>ShowInfoDlgAsync(context.Item.ProductId)" Icon="@Icons.Material.Filled.Info" Color="@Color.Secondary"></MudIconButton>
+                </MudStack>
+            </CellTemplate>
+        </TemplateColumn>
+    </Columns>
+</MudDataGrid>
+@code {
+    public Task ShowInfoDlgAsync(int id)
+    {
+        var parameter = new DialogParameters<_InfoDlg>
+        {
+            {x=>x.Id,id}
+        };
+        return Ds.ShowAsync<_InfoDlg>($"Info-Dialog ({id})",parameter);
+    }
+}

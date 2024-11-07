@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hangman_Forms
-build_property.ProjectDir = C:\LABS\Hangman-Console\Hangman-Forms\
+build_property.ProjectDir = T:\Andi\LABS\Hangman-Console\Hangman-Forms\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,38 @@
+﻿@page "/"
+@using Hangman_Console.Business
+@inject Hangman Spiel
+
+<PageTitle>Hangman</PageTitle>
+
+<h1>Willkommen zu Wortmann Hangman!</h1>
+<button @onclick="() => Spiel.NeuesSpiel() ">Neues Spiel</button>
+<div class="theview">
+    @Spiel.TheView
+</div>
+<div class="tastatur">
+    @for (char c = 'a'; c <= 'z'; c++)
+    {
+        var x = c;
+        <button @onclick="() => ButtonClick(x)">@c.ToString().ToUpper()</button>
+
+    }
+</div>
+
+<div class="container">
+    <div class ="row">
+        <div class="col-6" style="font-size:75px; color: red">
+            @Spiel.ErrorCount
+        </div>
+        <div class="col-6">
+            <img src="@($"/Images/galgen-{Spiel.ErrorCount}.jpg")" style="width: 75%" />
+        </div>
+    </div>
+</div>
+
+@code {
+    void ButtonClick(char c)
+    {
+        Spiel.Input(c+"");
+        StateHasChanged();
+    }
+}
