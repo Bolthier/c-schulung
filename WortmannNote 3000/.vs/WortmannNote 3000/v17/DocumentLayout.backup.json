@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LABS\\WortmannNote 3000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|c:\\labs\\wortmannnote 3000\\wortmannwebui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|solutionrelative:wortmannwebui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|c:\\labs\\wortmannnote 3000\\wortmannwebui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|solutionrelative:wortmannwebui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|c:\\labs\\wortmannnote 3000\\wortmannwebui\\models\\newnoteclientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|solutionrelative:wortmannwebui\\models\\newnoteclientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|c:\\labs\\wortmannnote 3000\\wortmannwebui\\components\\pages\\newnote.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|solutionrelative:wortmannwebui\\components\\pages\\newnote.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|c:\\labs\\wortmannnote 3000\\wortmannwebui\\components\\pages\\notes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|solutionrelative:wortmannwebui\\components\\pages\\notes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|c:\\labs\\wortmannnote 3000\\wortmannwebui\\models\\noteclientmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|solutionrelative:wortmannwebui\\models\\noteclientmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\wortmannnotewebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\wortmannnotewebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\business\\notehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\business\\notehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|c:\\labs\\wortmannnote 3000\\wortmannwebui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CF65BF-F021-4C57-920A-298F75776016}|WortmannWebUi\\WortmannWebUi.csproj|solutionrelative:wortmannwebui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\wortmannnotewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\wortmannnotewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\models\\wortmannnotecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\models\\wortmannnotecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\models\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\models\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|c:\\labs\\wortmannnote 3000\\wortmannnotewebapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B8054D-DC35-4AB4-A903-C4B6F5D9F3B8}|WortmannNoteWebApi\\WortmannNoteWebApi.csproj|solutionrelative:wortmannnotewebapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WortmannWebUi\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WortmannWebUi\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T12:59:30.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewNoteClientModel.cs",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Models\\NewNoteClientModel.cs",
+              "RelativeDocumentMoniker": "WortmannWebUi\\Models\\NewNoteClientModel.cs",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Models\\NewNoteClientModel.cs",
+              "RelativeToolTip": "WortmannWebUi\\Models\\NewNoteClientModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:47:13.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewNote.razor",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\Pages\\NewNote.razor",
+              "RelativeDocumentMoniker": "WortmannWebUi\\Components\\Pages\\NewNote.razor",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\Pages\\NewNote.razor",
+              "RelativeToolTip": "WortmannWebUi\\Components\\Pages\\NewNote.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T12:46:11.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WortmannNoteWebApi",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\WortmannNoteWebApi.csproj",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\WortmannNoteWebApi.csproj",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\WortmannNoteWebApi.csproj",
+              "RelativeToolTip": "WortmannNoteWebApi\\WortmannNoteWebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T12:45:49.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\appsettings.json",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\appsettings.json",
+              "RelativeToolTip": "WortmannNoteWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T12:45:33.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\App.razor",
+              "RelativeDocumentMoniker": "WortmannWebUi\\Components\\App.razor",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\App.razor",
+              "RelativeToolTip": "WortmannWebUi\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T12:45:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WortmannWebUi\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "WortmannWebUi\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T12:29:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteClientModels.cs",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Models\\NoteClientModels.cs",
+              "RelativeDocumentMoniker": "WortmannWebUi\\Models\\NoteClientModels.cs",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Models\\NoteClientModels.cs",
+              "RelativeToolTip": "WortmannWebUi\\Models\\NoteClientModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:28:02.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notes.razor",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\Pages\\Notes.razor",
+              "RelativeDocumentMoniker": "WortmannWebUi\\Components\\Pages\\Notes.razor",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\Components\\Pages\\Notes.razor",
+              "RelativeToolTip": "WortmannWebUi\\Components\\Pages\\Notes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T12:26:59.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\Program.cs",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Program.cs",
+              "RelativeToolTip": "WortmannNoteWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:50:54.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "WortmannNoteWebApi\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:41:08.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WortmannNoteWebApi",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\WortmannNoteWebApi.csproj",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\WortmannNoteWebApi.csproj",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\WortmannNoteWebApi.csproj",
+              "RelativeToolTip": "WortmannNoteWebApi\\WortmannNoteWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T10:29:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WortmannNoteContext.cs",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Models\\WortmannNoteContext.cs",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\Models\\WortmannNoteContext.cs",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Models\\WortmannNoteContext.cs",
+              "RelativeToolTip": "WortmannNoteWebApi\\Models\\WortmannNoteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:10:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoteHelper.cs",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Business\\NoteHelper.cs",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\Business\\NoteHelper.cs",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Business\\NoteHelper.cs",
+              "RelativeToolTip": "WortmannNoteWebApi\\Business\\NoteHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:04:29.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NoteModel.cs",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Models\\NoteModel.cs",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\Models\\NoteModel.cs",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Models\\NoteModel.cs",
+              "RelativeToolTip": "WortmannNoteWebApi\\Models\\NoteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:00:38.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "WortmannNoteWebApi\\Models\\UserModel.cs",
+              "ToolTip": "C:\\LABS\\WortmannNote 3000\\WortmannNoteWebApi\\Models\\UserModel.cs",
+              "RelativeToolTip": "WortmannNoteWebApi\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:57:26.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

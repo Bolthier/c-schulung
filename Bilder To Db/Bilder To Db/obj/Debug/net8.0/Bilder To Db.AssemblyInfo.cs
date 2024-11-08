@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bilder To Db")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dea432d7772c22d032cfddfd6c7ca394d54d4b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+618ff547abfa9921c1c8c5c8f241a30c1eaa0ac8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bilder To Db")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bilder To Db")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

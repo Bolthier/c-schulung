@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\LABS\\WortmannNote 3000\\WortmannWebUi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WortmannWebUi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WortmannWebUi.props",
+      "PackagePath": "build\\WortmannWebUi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WortmannWebUi.props",
+      "PackagePath": "buildMultiTargeting\\WortmannWebUi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WortmannWebUi.props",
+      "PackagePath": "buildTransitive\\WortmannWebUi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

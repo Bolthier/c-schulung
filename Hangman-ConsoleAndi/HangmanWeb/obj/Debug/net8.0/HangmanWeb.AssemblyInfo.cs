@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HangmanWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be9c78ba8c6e06b24abaa14dd8139ba7639e2f81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+618ff547abfa9921c1c8c5c8f241a30c1eaa0ac8")]
 [assembly: System.Reflection.AssemblyProductAttribute("HangmanWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HangmanWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

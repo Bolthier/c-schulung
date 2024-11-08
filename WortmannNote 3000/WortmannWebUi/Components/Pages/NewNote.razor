@@ -1,0 +1,35 @@
+﻿@page "/new"
+@using WortmannWebUi.Models
+@inject ISnackbar Sb
+
+
+<PageTitle>NewNote</PageTitle>
+<MudStack Row>
+    <MudTextField T="string" Label="Username" @bind-Value="Data.name" />
+</MudStack>
+<MudStack Row>
+    <MudTextField T="string" Label="Header" @bind-Value="Data.header" />
+</MudStack>
+<MudStack Row>
+    <MudTextField Lines="10" T="string" Label="Content" @bind-Value="Data.content" />
+</MudStack>
+<MudButton @onclick="SendData">Senden</MudButton>
+@code {
+    public NewNoteClientModel Data { get; set; } = new NewNoteClientModel();
+
+    async void SendData()
+    {
+
+        using HttpClient http = new HttpClient() { BaseAddress = new Uri("https://localhost:7094/") };
+        var res = await http.PostAsJsonAsync("api/note", Data);
+        if (res.IsSuccessStatusCode)
+        {
+            Sb.Add("Note sent...");
+        }
+        else
+        {
+            Sb.Add(res.ReasonPhrase, Severity.Error);
+        }
+;
+    }
+}

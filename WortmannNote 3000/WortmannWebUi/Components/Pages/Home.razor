@@ -1,0 +1,31 @@
+﻿@page "/"
+@using System.Text.Json
+@using WortmannWebUi.Models
+
+<PageTitle>Info</PageTitle>
+
+<MudButton @onclick="LoadData">Aktualisieren</MudButton>
+
+<MudDataGrid Items="@Data">
+    <Columns>
+        <PropertyColumn Title="Header" Property="x=>x.header" />
+        <PropertyColumn Title="Content" Property="x=>x.content" />
+        <PropertyColumn Title="Datum" Property="x=>x.posted" />
+        <PropertyColumn Title="UserId" Property="x=>x.userId" />
+    </Columns>
+</MudDataGrid>
+
+@code {
+    public IEnumerable<NoteClientModels> Data { get; set; }
+    protected override void OnInitialized()
+    {
+        LoadData();
+    }
+    async void LoadData()
+    {
+        using HttpClient http = new HttpClient() { BaseAddress = new Uri("https://localhost:7094/") };
+        var res = await http.GetAsync("api/note");
+        Data = JsonSerializer.Deserialize<NoteClientModels[]>(await res.Content.ReadAsStringAsync());
+        StateHasChanged();
+    }
+}
